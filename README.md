@@ -3,17 +3,17 @@
 *Resource to bring code and journalism together for fun*
 
 ## Content
-* 🌍 [Mapping](#mapping)
+* 🌍 [Mapping](#user-content-mapping-)
 
-* 📈 [Data](#data)
+* 📈 [Data](#user-content-data-)
 
-* 🙊 [Security](#security)
+* 🙊 [Security](#user-content-security-)
 
-* 🔮 [Command line tools](#command-line-tools)
+* 🔮 [Command line tools](#user-content-command-line-tools-)
 
-* 📷 [Media](#media)
+* 📷 [Media](#user-content-media-)
 
-* 👏 [Open source](#open-source)
+* 👏 [Open source](#user-content-open-source-)
 
 
 								
