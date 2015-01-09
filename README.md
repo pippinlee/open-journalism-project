@@ -154,8 +154,6 @@ Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
 
 **Tabletop.js**
 
-Site: []()
-
 Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
 
 * **Tutorial**
@@ -172,12 +170,33 @@ Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
 	* [You Might Be the 47 Percent If..., Mother Jones](http://www.motherjones.com/politics/2012/09/charts-47-percent-romney-tax-data)
 	* [Police Departments, Massachusetts](http://dataforradicals.com/js/tabletop-to-datatables/)
 	* [Mother Jones News Quiz](http://www.motherjones.com/politics/2013/02/back-line-green-card-immigration-reform-quiz)
-	
+
+
+
+**Fusion Tables**
+
+Site: [support.google.com/fusiontables/answer/2571232](https://support.google.com/fusiontables/answer/2571232)
+
+* **Tutorials**
+	* [Google's Fusion Tables tutorials](https://support.google.com/fusiontables/answer/184641?hl=en)
+	* [Mountain Bike trails](http://blog.mtbguru.com/2010/02/24/mtbguru-tracks-as-seen-through-google-fusion-tables/)
+	* [Mapping population densities by the block](http://montrealgazette.com/news/local-news/mapping-population-densities-by-the-block)
+	* [Mapping with Fusion Tables](http://www.smalldatajournalism.com/projects/one-offs/mapping-with-fusion-tables/)
+	* [Video: Google Fusion Table map visualization tutorial](https://www.youtube.com/watch?v=ok7gz4nAnFE)
+
+* **Examples**
+	* [Mapping the riots with povert, Gaurdian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
+	* [Newspaper Map](http://newspapermap.com/)
+	* [What's the most congested street in Toronto, Globe and Mail](http://www.theglobeandmail.com/news/toronto/have-your-say-whats-the-most-congested-street-in-toronto/article2361996/)
+	* [Hurricane zones, WNYC](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
+
+
 	
 **Other data links**
 
 * [Comparing Paper.js, Processesing.js, and Raphael.js](http://www.smashingmagazine.com/2012/02/22/web-drawing-throwdown-paper-processing-raphael/)
 * [Differences between Raphael.js and D3.js](http://stackoverflow.com/questions/15219732/d3-js-vs-raphael-js)
+* [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/delivering_data_7.html)
 
 
 ### Security
@@ -320,7 +339,7 @@ Canadian news orgs in open source | Github
 :--------------------------------:| :-----------: | :-----------:
 Ubyssey         				   | [github.com/ubyssey/](https://github.com/ubyssey)         
 Globe and Mail         			   | [github.com/globeandmail](https://github.com/globeandmail)        
-Toronto Star         			   | []()         
+Toronto Star         			   | [  ]()         
 National Post         			   | []()         
 
 
@@ -329,10 +348,24 @@ National Post         			   | []()
 
 US news orgs in open source 	   | Github
 :--------------------------------:| :-----------: | :-----------:
-NYTimes         				   | [github.com/nytimes](https://github.com/nytimes/)         
+NYTimes         				   | [github.com/nytimes](https://github.com/nytimes/) & [github.com/nytlabs](https://github.com/nytlabs)
 Knightlab (Northwestern)          | [github.com/NUKnightLab](https://github.com/NUKnightLab)        
 Propublica         				   | [github.com/propublica](https://github.com/propublica/)         
 NPR       			  			   | [github.com/npr](https://github.com/npr) & [github.com/nprapps](https://github.com/nprapps) 
 Chicago Tribune					   | [github.com/newsapps](https://github.com/newsapps)
 LA Times 						   | [github.com/datadesk](https://github.com/datadesk)
 Texax Tribue        			   | [github.com/texastribune](https://github.com/texastribune)
+Washington Post					   | [github.com/washingtonpost](https://github.com/washingtonpost)
+Boston Globe					   | [github.com/BostonGlobe](https://github.com/BostonGlobe)
+WNYC							   | [github.com/wnyc](https://github.com/wnyc)
+Columbia U School of Journalism   | [github.com/jsieben](https://github.com/jsieben)
+Vox Media						   | [github.com/voxmedia](https://github.com/voxmedia)
+Al Jazeera America				   | [github.com/ajam](https://github.com/ajam)
+Time Magazine					   | [github.com/TimeMagazine](https://github.com/TimeMagazine)
+HuffPost Data					   | [https://github.com/huffpostdata](https://github.com/huffpostdata)
+BuzzFeedNews					   | [github.com/BuzzFeedNews](https://github.com/BuzzFeedNews)
+FiveThirtyEight					   | [github.com/fivethirtyeight](https://github.com/fivethirtyeight)
+USC Annenberg J-School			   | [https://github.com/uscannenberg](https://github.com/uscannenberg)
+
+
+
