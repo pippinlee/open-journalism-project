@@ -3,17 +3,17 @@
 *Resource to bring code and journalism together for fun*
 
 ## Content
-* 🌍 [Mapping](https://github.com/pippinlee/open-journalism-project#mapping)
+* 🌍 [Mapping](#mapping)
 
-* 📈 [Data](https://github.com/pippinlee/open-journalism-project#data)
+* 📈 [Data](#data)
 
-* 🙊 [Security](https://github.com/pippinlee/open-journalism-project#security)
+* 🙊 [Security](#security)
 
-* 🔮 [Command line tools](https://github.com/pippinlee/open-journalism-project#command-line-tools)
+* 🔮 [Command line tools](#command-line-tools)
 
-* 📷 [Media](https://github.com/pippinlee/open-journalism-project#media)
+* 📷 [Media](#media)
 
-* 👏 [Open source](https://github.com/pippinlee/open-journalism-project#open-source)
+* 👏 [Open source](#open-source)
 
 
 								
