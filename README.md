@@ -37,7 +37,7 @@ Github: [github.com/Leaflet](https://github.com/Leaflet/Leaflet)
 * **Examples**
 	* [Holiday lights 2012](http://www.spokesman.com/maps/holiday-lights-2012/)
 	* [Where shooting occur in Chicago](http://crime.chicagotribune.com/chicago/shootings/)
-	* []()
+
 	
 
 **Tilemill**
@@ -48,10 +48,10 @@ Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
 
 * **Tutorials**
 	* [The insanely illustrated guide to your first data-driven tilemill map](http://dataforradicals.com/the-insanely-illustrated-guide-to-your-first-tile-mill-map/)
-	* Thing2
-* **Examples**
-	* Thing1
-	* Thing2
+	* [Video: Use TileMill with Open Data](http://vimeo.com/64578563)
+	* [Cartography with TileMill](http://learnosm.org/en/map-design/tilemill/)
+	* [Digital mapping with TileMill](http://www.lizhannaford.com/journalism/beginners-easy-guide-to-digital-mapping-with-tilemill/)
+
 
 
 
@@ -66,10 +66,11 @@ Github: [github.com/mbostock/d3](https://github.com/mbostock/d3)
 
 * **Tutorials**
 	* [code.minnpost.com/simple-map-d3/](http://code.minnpost.com/simple-map-d3/)
-	* Thing2
+	* [Dashing D3.js ebook](https://www.dashingd3js.com/table-of-contents)
+	* [Official D3.js list of tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
 * **Examples**
-	* Thing1
-	* Thing2
+	* [How Obama Won Re-election](http://www.nytimes.com/interactive/2012/11/07/us/politics/obamas-diverse-base-of-support.html)
+	* [Racing Against History](http://www.nytimes.com/interactive/2012/08/01/sports/olympics/racing-against-history.html)
 
 
 **Raphael.js**
@@ -88,6 +89,18 @@ Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovs
 * **Examples**
 	* [Canada map and data](http://pippinlee.com/canada/)
 	* [Easing with Raphael.js](http://raphaeljs.com/easing.html)
+
+
+**Kimono**
+
+Site: [KimonoLabs.com](https://www.kimonolabs.com/)
+
+Github: [github.com/kimonolabs](https://github.com/kimonolabs)
+
+* **Tutorials**
+	* [Interactive: Create your first API](https://www.kimonolabs.com/learn/create-first-api)
+	* [Web scraping with Kimono Labs](http://moz.com/blog/web-scraping-with-kimono-labs)
+	* [Video: Using Kimono](https://www.kimonolabs.com/learn/videos)
 	
 	
 **Chart.js**
@@ -102,7 +115,6 @@ Github: [github.com/nnnick/Chart.js](https://github.com/nnnick/Chart.js/)
 	* [Getting started with Chart.js](http://kushagragour.in/blog/2013/06/getting-started-with-chartjs/)
 * **Examples**
 	* Thing1
-	* Thing2
 
 
 **Chartbuilder**
@@ -242,6 +254,22 @@ Github: [github.com/NUKnightLab/soundcite](https://github.com/NUKnightLab/soundc
 	* [Wendy Davis, Washington Post](http://www.washingtonpost.com/blogs/the-fix/wp/2013/06/26/this-tweetstorm-was-planned-in-advance/)
 
 
+
+### Open Source
+
+**Github**
+
+Site: [github.com](https://github.com/)
+
+* **Tutorials**
+	* [Hello World on Github](https://guides.github.com/activities/hello-world/)
+	* [Git - The simpel guide](http://rogerdudler.github.io/git-guide/)
+	* [Git flight rules](https://github.com/k88hudson/git-flight-rules)
+	* [How to Github](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
+	* [Interactive: Try Git](https://try.github.io/levels/1/challenges/1)
+	
+**Other resources about open source and journalism**
+	* [Mozilla's Source](https://source.opennews.org/en-US/)
 
 
 
