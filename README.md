@@ -2,9 +2,18 @@
 
 *Resource to bring code and journalism together for fun*
 
+## Content
+* [Mapping](#mapping)
+* [Data](#data)
+* [Security](#security)
+* [Command line tools](https://github.com/pippinlee/open-journalism-project#command-line-tools)
+* [Media](https://github.com/pippinlee/open-journalism-project#media)
+* [Open source](https://github.com/pippinlee/open-journalism-project#open-source)
 
 
-### Mapping
+								
+
+### Mapping 🌍
 ****
 
 **Mapbox**
@@ -55,7 +64,7 @@ Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
 
 
 
-### Data
+### Data 📈
 ****
 
 **D3.js**
@@ -133,7 +142,7 @@ Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/
 * **Examples**
 	* [Water cleanup commences, New Hampshire Public Radio](http://nhpr.org/post/water-cleanup-commences-beede-story-shows-superfund-laws-flaws)
 	* [Bike Sales in Europe, NPR](http://www.npr.org/blogs/parallels/2013/10/24/240493422/in-most-every-european-country-bikes-are-outselling-cars)
-	* [Small business still reeling from credit cruch](http://www.cnbc.com/id/101009116)
+	* [Small business still reeling from credit crunch](http://www.cnbc.com/id/101009116)
 
 
 
@@ -185,7 +194,7 @@ Site: [support.google.com/fusiontables/answer/2571232](https://support.google.co
 	* [Video: Google Fusion Table map visualization tutorial](https://www.youtube.com/watch?v=ok7gz4nAnFE)
 
 * **Examples**
-	* [Mapping the riots with povert, Gaurdian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
+	* [Mapping the riots with poverty, Gaurdian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
 	* [Newspaper Map](http://newspapermap.com/)
 	* [What's the most congested street in Toronto, Globe and Mail](http://www.theglobeandmail.com/news/toronto/have-your-say-whats-the-most-congested-street-in-toronto/article2361996/)
 	* [Hurricane zones, WNYC](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
@@ -197,9 +206,10 @@ Site: [support.google.com/fusiontables/answer/2571232](https://support.google.co
 * [Comparing Paper.js, Processesing.js, and Raphael.js](http://www.smashingmagazine.com/2012/02/22/web-drawing-throwdown-paper-processing-raphael/)
 * [Differences between Raphael.js and D3.js](http://stackoverflow.com/questions/15219732/d3-js-vs-raphael-js)
 * [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/delivering_data_7.html)
+* [Flowing Data: learning R and visualizations](http://flowingdata.com/)
 
 
-### Security
+### Security 🙊
 ****
 
 **Onionshare**
@@ -222,7 +232,7 @@ Github: [github.com/freedomofpress/securedrop](https://github.com/freedomofpress
 * **Tutorials**
 	* [Using SecureDrop with the Washington Post](http://pagebuilder.washingtonpost.com/pb/securedrop/)
 * **Examples**
-	* [The Guardian uses SecureDrop for condefential stories](https://securedrop.theguardian.com/)
+	* [The Guardian uses SecureDrop for confidential stories](https://securedrop.theguardian.com/)
 	* [Using SecureDrop with The Intercept](https://firstlook.org/theintercept/securedrop/	)
 	* [Using SecureDrop with ProPublica](https://securedrop.propublica.org/)
 
@@ -258,7 +268,7 @@ Github: [github.com/cryptocat/cryptocat](https://github.com/cryptocat/cryptocat)
 * [minilock.io](https://minilock.io/)
 
 
-### Command line tools
+### Command line tools 🔮
 ****
 
 **youtube-dl**
@@ -282,7 +292,7 @@ Github: [github.com/holman/gifme](https://github.com/holman/gifme/)
 
 
 
-### Media
+### Media 📷
 ****
 
 **Popcorn.js**
@@ -314,7 +324,7 @@ Github: [github.com/NUKnightLab/soundcite](https://github.com/NUKnightLab/soundc
 
 
 
-### Open Source
+### Open Source 👏
 ***
 
 **Github**
@@ -329,7 +339,8 @@ Site: [github.com](https://github.com/)
 	* [Interactive: Try Git](https://try.github.io/levels/1/challenges/1)
 	
 **Other resources about open source and journalism**
-	* [Mozilla's Source](https://source.opennews.org/en-US/)
+
+* [Mozilla's Source](https://source.opennews.org/en-US/)
 
 
 
@@ -354,7 +365,7 @@ Propublica         				   | [github.com/propublica](https://github.com/propublic
 NPR       			  			   | [github.com/npr](https://github.com/npr) & [github.com/nprapps](https://github.com/nprapps) 
 Chicago Tribune					   | [github.com/newsapps](https://github.com/newsapps)
 LA Times 						   | [github.com/datadesk](https://github.com/datadesk)
-Texax Tribue        			   | [github.com/texastribune](https://github.com/texastribune)
+Texas Tribune        			   | [github.com/texastribune](https://github.com/texastribune)
 Washington Post					   | [github.com/washingtonpost](https://github.com/washingtonpost)
 Boston Globe					   | [github.com/BostonGlobe](https://github.com/BostonGlobe)
 WNYC							   | [github.com/wnyc](https://github.com/wnyc)
