@@ -103,6 +103,7 @@ Github: [github.com/kimonolabs](https://github.com/kimonolabs)
 	* [Video: Using Kimono](https://www.kimonolabs.com/learn/videos)
 	
 	
+
 **Chart.js**
 
 Site: [chartjs.org](http://www.chartjs.org/)
@@ -115,6 +116,7 @@ Github: [github.com/nnnick/Chart.js](https://github.com/nnnick/Chart.js/)
 	* [Getting started with Chart.js](http://kushagragour.in/blog/2013/06/getting-started-with-chartjs/)
 * **Examples**
 	* Thing1
+
 
 
 **Chartbuilder**
@@ -132,6 +134,44 @@ Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/
 	* [Water cleanup commences, New Hampshire Public Radio](http://nhpr.org/post/water-cleanup-commences-beede-story-shows-superfund-laws-flaws)
 	* [Bike Sales in Europe, NPR](http://www.npr.org/blogs/parallels/2013/10/24/240493422/in-most-every-european-country-bikes-are-outselling-cars)
 	* [Small business still reeling from credit cruch](http://www.cnbc.com/id/101009116)
+
+
+
+**Sheetsee.js**
+
+Site: [jlord.us/sheetsee.js](http://jlord.us/sheetsee.js/)
+
+Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
+
+* **Tutorial**
+	* [About sheetsee.js](https://github.com/jlord/sheetsee.js/blob/master/docs/about.md)
+	* [Shetsee.js: the basics](https://github.com/jlord/sheetsee.js/blob/master/docs/basics.md)
+	* [Jessica Lord on Sheetsee.js](https://source.opennews.org/en-US/articles/jessica-lord-sheetseejs/)
+* **Examples**
+	* [Mapping hack spots](http://jlord.us/hack-spots/)
+	* [Budget visualization](http://seepennywork.in/#)
+
+
+**Tabletop.js**
+
+Site: []()
+
+Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
+
+* **Tutorial**
+	* [Tabletop.js's Github README](https://github.com/jsoma/tabletop)
+	* [Why I don't use Tabletop.js in production](https://gist.github.com/jsvine/3295633)
+	* [Using spreadsheets and Tabletop.js as a Web App Backend](http://www.mikeball.us/blog/using-google-spreadsheets-and-tabletop-as-a-back-end/)
+	* [Web-based data tables with Tabletop.js](http://dataforradicals.com/creating-interactive-web-based-data-tables-with-tabletop-js/)
+	* [Creating a styled data project with Tabletop and Handlebars](http://montrealgazette.com/news/local-news/creating-a-styled-data-project-with-tabletop-and-handlebars)
+
+* **Examples**
+	* [Internet Indians, Al Jazeera](http://www.aljazeera.com/indepth/interactive/2012/04/20124107156511888.html)
+	* [Mayor Tracker 2013, WNYC](http://project.wnyc.org/mayortracker2013/)
+	* [Mapsheet](https://github.com/jsoma/mapsheet)
+	* [You Might Be the 47 Percent If..., Mother Jones](http://www.motherjones.com/politics/2012/09/charts-47-percent-romney-tax-data)
+	* [Police Departments, Massachusetts](http://dataforradicals.com/js/tabletop-to-datatables/)
+	* [Mother Jones News Quiz](http://www.motherjones.com/politics/2013/02/back-line-green-card-immigration-reform-quiz)
 	
 	
 **Other data links**
@@ -256,6 +296,7 @@ Github: [github.com/NUKnightLab/soundcite](https://github.com/NUKnightLab/soundc
 
 
 ### Open Source
+***
 
 **Github**
 
@@ -281,3 +322,17 @@ Ubyssey         				   | [github.com/ubyssey/](https://github.com/ubyssey)
 Globe and Mail         			   | [github.com/globeandmail](https://github.com/globeandmail)        
 Toronto Star         			   | []()         
 National Post         			   | []()         
+
+
+
+
+
+US news orgs in open source 	   | Github
+:--------------------------------:| :-----------: | :-----------:
+NYTimes         				   | [github.com/nytimes](https://github.com/nytimes/)         
+Knightlab (Northwestern)          | [github.com/NUKnightLab](https://github.com/NUKnightLab)        
+Propublica         				   | [github.com/propublica](https://github.com/propublica/)         
+NPR       			  			   | [github.com/npr](https://github.com/npr) & [github.com/nprapps](https://github.com/nprapps) 
+Chicago Tribune					   | [github.com/newsapps](https://github.com/newsapps)
+LA Times 						   | [github.com/datadesk](https://github.com/datadesk)
+Texax Tribue        			   | [github.com/texastribune](https://github.com/texastribune)
