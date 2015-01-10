@@ -6,7 +6,7 @@ url: "http://example.com" # the base hostname & protocol for your site
 theme:
   # Meta
   title: The Open Journalism Project
-  avatar: /img/oj-avatar.jpg
+  avatar: img/oj-avatar.jpg
   description: "Fun with journalism and code." # used by search engines
   
   # Header and footer text
