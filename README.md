@@ -324,7 +324,7 @@ Github: [github.com/NUKnightLab/soundcite](https://github.com/NUKnightLab/soundc
 	* [Soundcite tutorial](http://vimeo.com/68383495)
 
 * **Examples**
-	* [An interview with Change the rapper](http://www.wbez.org/blogs/jim-derogatis/2013-05/chance-rapper-paints-giddy-yet-profound-picture-south-side-life-107164, WBEZ)
+	* [An interview with Chance the rapper, WBEZ](http://www.wbez.org/blogs/jim-derogatis/2013-05/chance-rapper-paints-giddy-yet-profound-picture-south-side-life-107164)
 	* [Wendy Davis, Washington Post](http://www.washingtonpost.com/blogs/the-fix/wp/2013/06/26/this-tweetstorm-was-planned-in-advance/)
 
 
