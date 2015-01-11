@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/open-journalism-project/" # the subpath of your site, e.g. /blog/
+baseurl: "/open-journalism-project" # the subpath of your site, e.g. /blog/
 url: "http://example.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -54,7 +54,7 @@ theme:
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PAGINATION
-paginate: 5
+paginate: 6
 paginate_path: "blog/page:num"
   
 # BUILD SETTINGS
