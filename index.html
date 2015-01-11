@@ -23,7 +23,7 @@ layout: default
       <div class="excerpt">
         {{ post.excerpt }}
 
-        <a class="button" href="{{ post.title | prepend: site.baseurl/ }}">{{ site.theme.str_continue_reading }}</a>
+        <a class="button" href="{{ site.baseurl }}/{{ post.title }}">{{ site.theme.str_continue_reading }}</a>
       </div>
       
     </div>
