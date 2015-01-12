@@ -6,17 +6,48 @@ feature-img: ""
 ---
 
 
-<img class="tableContents" src="../../open-journalism-project/img/map-content.png">
+<div class="toc">
+  <img class="tableContents" src="{{ site.baseurl }}/img/map-content.png">
 
+  <ul class="listContent">
+    <li><a href="#hwgh">How we got here</a></li>
+    <li> <a href="#pim">Problems in mapping</a></li>
+    <li><a href="#wdtfl">Where does the future lead</a></li>
+    <li><a href="#eac">Examples and code</a></li>
+  </ul>
+</div>
 
+<h1 id="hwgh">How we got here</h1>
 
-<ul class="listContent">
-  <li>How we got here</li>
-  <li>Problems in mapping</li>
-  <li>Where does the future lead</li>
-  <li>Examples and code</li>
-</ul>
+Technologies used: google maps api, google charts, open street maps,
 
+.
+
+When descartes first started making maps, he scrawled them on thin paper with a feathered quill. He created theme to guide us through our physical would, and so we could understand the magnitudes of the earth.
+
+.
+
+.
+
+.
+
+Mapping technology has changed from paper, to computers processing information in real time and plotting it on a map to help gain understandings of what is happening in our world.
+
+If you look at the history of maps, they can in different shapes depending on which map-oligist you are. The same can be said with a lot of mapping technology that has been created over the last 40 years.
+
+<h1 id="pim">Problems in mapping</h1>
+
+Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+
+Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+
+<h1 id="wdtfl">Where does the future lead</h1>
+
+Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+
+Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+
+<h1 id="eac">Examples and code</h1>
 
 
 **Mapbox**
@@ -63,3 +94,16 @@ Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
   * [Video: Use TileMill with Open Data](http://vimeo.com/64578563)
   * [Cartography with TileMill](http://learnosm.org/en/map-design/tilemill/)
   * [Digital mapping with TileMill](http://www.lizhannaford.com/journalism/beginners-easy-guide-to-digital-mapping-with-tilemill/)
+  
+
+**QGIS**
+
+Site: [qgis.org](http://www.qgis.org/en/site/)
+
+* **Tutorials**
+	* [Havard QGIS 2.0 Workshop](http://maps.cga.harvard.edu/qgis/)
+
+
+**OpenStreetMap**
+
+Site: [openstreetmap.org](http://www.openstreetmap.org/)

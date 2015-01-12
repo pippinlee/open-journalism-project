@@ -2,6 +2,16 @@
 
 *Resource to bring code and journalism together for fun*
 
+
+##Contribute?
+
+**Yes, we love contributions.**
+
+**This site is a work in progress, but can ALWAYS use better, improved copy. Also important is continuing to make the list of resources of libraries, tools, and examples more thorough.**
+
+**The goal is to show the accessible nature of the open web to anyone interested in the intersection of the web and news.**
+
+
 ## Content
 * 🌍 [Mapping](#user-content-mapping-)
 
@@ -67,6 +77,17 @@ Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
 	* [Digital mapping with TileMill](http://www.lizhannaford.com/journalism/beginners-easy-guide-to-digital-mapping-with-tilemill/)
 
 
+**QGIS**
+
+Site: [qgis.org](http://www.qgis.org/en/site/)
+
+* **Tutorials**
+	* [Havard QGIS 2.0 Workshop](http://maps.cga.harvard.edu/qgis/)
+
+
+**OpenStreetMap**
+
+Site: [openstreetmap.org](http://www.openstreetmap.org/)
 
 
 ### Data 📈
@@ -98,7 +119,7 @@ Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovs
 	* [Intro to Raphael, HTML5 Rocks](http://www.html5rocks.com/en/tutorials/raphael/intro/)
 	* [Raphael JS tutorial part I](http://www.varunpant.com/posts/raphael-js-tutorial-part-i)
 	* [Using Raphael with SVGs](http://alistapart.com/article/svg-with-a-little-help-from-raphael)
-	* [Create a responsive and interactive animtion with Raphael.js](http://speckyboy.com/2014/08/27/creating-responsive-interactive-animations-raphael-js-2/)
+	* [Create a responsive and interactive animation with Raphael.js](http://speckyboy.com/2014/08/27/creating-responsive-interactive-animations-raphael-js-2/)
 	* VIDEO: [Raphael Part I](https://www.youtube.com/watch?v=IPy77zMsd0Y) [Raphael Part II](https://www.youtube.com/watch?v=mI1Vajr3Fiw)
 * **Examples**
 	* [Canada map and data](http://pippinlee.com/canada/)
@@ -159,7 +180,7 @@ Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
 
 * **Tutorial**
 	* [About sheetsee.js](https://github.com/jlord/sheetsee.js/blob/master/docs/about.md)
-	* [Shetsee.js: the basics](https://github.com/jlord/sheetsee.js/blob/master/docs/basics.md)
+	* [Sheetsee.js: the basics](https://github.com/jlord/sheetsee.js/blob/master/docs/basics.md)
 	* [Jessica Lord on Sheetsee.js](https://source.opennews.org/en-US/articles/jessica-lord-sheetseejs/)
 * **Examples**
 	* [Mapping hack spots](http://jlord.us/hack-spots/)
@@ -199,7 +220,7 @@ Site: [support.google.com/fusiontables/answer/2571232](https://support.google.co
 	* [Video: Google Fusion Table map visualization tutorial](https://www.youtube.com/watch?v=ok7gz4nAnFE)
 
 * **Examples**
-	* [Mapping the riots with poverty, Gaurdian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
+	* [Mapping the riots with poverty, Guardian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
 	* [Newspaper Map](http://newspapermap.com/)
 	* [What's the most congested street in Toronto, Globe and Mail](http://www.theglobeandmail.com/news/toronto/have-your-say-whats-the-most-congested-street-in-toronto/article2361996/)
 	* [Hurricane zones, WNYC](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
