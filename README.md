@@ -67,6 +67,17 @@ Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
 	* [Digital mapping with TileMill](http://www.lizhannaford.com/journalism/beginners-easy-guide-to-digital-mapping-with-tilemill/)
 
 
+**QGIS**
+
+Site: [qgis.org](http://www.qgis.org/en/site/)
+
+* **Tutorials**
+	* [Havard QGIS 2.0 Workshop](http://maps.cga.harvard.edu/qgis/)
+
+
+**OpenStreetMap**
+
+Site: [openstreetmap.org](http://www.openstreetmap.org/)
 
 
 ### Data 📈
