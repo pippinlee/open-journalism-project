@@ -5,10 +5,20 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>Fun with journalism and code.</description>
-    <pubDate>Mon, 12 Jan 2015 16:59:19 -0500</pubDate>
+    <pubDate>Mon, 12 Jan 2015 17:10:45 -0500</pubDate>
     
       <item>
-        <title>command line</title>
+        <title>Mapping</title>
+        <link>http://example.com/2015/01/02/mapping.html</link>
+        <guid isPermaLink="true">http://example.com/2015/01/02/mapping.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/mapping.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Jan 2015 00:00:00 -0500</pubDate>
+      </item>
+    
+      <item>
+        <title>Command line</title>
         <link>http://example.com/2014/12/01/command-line-tools.html</link>
         <guid isPermaLink="true">http://example.com/2014/12/01/command-line-tools.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/command-line.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
@@ -18,9 +28,9 @@
       </item>
     
       <item>
-        <title>security</title>
-        <link>http://example.com/2014/11/30/security.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/30/security.html</guid>
+        <title>Security</title>
+        <link>http://example.com/security/</link>
+        <guid isPermaLink="true">http://example.com/security/</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/security.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
@@ -28,7 +38,7 @@
       </item>
     
       <item>
-        <title>data</title>
+        <title>Data</title>
         <link>http://example.com/2014/11/29/data.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/29/data.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/data.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
@@ -38,17 +48,7 @@
       </item>
     
       <item>
-        <title>mapping</title>
-        <link>http://example.com/2014/11/28/mapping.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/28/mapping.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/mapping.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 28 Nov 2014 00:00:00 -0500</pubDate>
-      </item>
-    
-      <item>
-        <title>media</title>
+        <title>Media</title>
         <link>http://example.com/2014/11/27/media.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/27/media.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/media-camera.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
@@ -58,7 +58,7 @@
       </item>
     
       <item>
-        <title>open source</title>
+        <title>Open source</title>
         <link>http://example.com/2014/11/26/open-source.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/26/open-source.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/open-source.jpg&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;

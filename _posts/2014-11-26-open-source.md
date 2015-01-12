@@ -1,6 +1,6 @@
 ---
 layout: post
-title: open source
+title: Open source
 ---
 
 ![oj text]({{ site.baseurl }}/img/open-source.jpg)
