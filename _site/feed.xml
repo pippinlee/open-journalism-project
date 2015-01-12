@@ -5,10 +5,10 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>Fun with journalism and code.</description>
-    <pubDate>Mon, 12 Jan 2015 12:18:13 -0500</pubDate>
+    <pubDate>Mon, 12 Jan 2015 16:59:19 -0500</pubDate>
     
       <item>
-        <title>command-line</title>
+        <title>command line</title>
         <link>http://example.com/2014/12/01/command-line-tools.html</link>
         <guid isPermaLink="true">http://example.com/2014/12/01/command-line-tools.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/command-line.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
@@ -21,7 +21,7 @@
         <title>security</title>
         <link>http://example.com/2014/11/30/security.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/30/security.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/bird-text.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/security.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 30 Nov 2014 00:00:00 -0500</pubDate>
@@ -58,7 +58,7 @@
       </item>
     
       <item>
-        <title>open-source</title>
+        <title>open source</title>
         <link>http://example.com/2014/11/26/open-source.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/26/open-source.html</guid>
         <description>&lt;p&gt;&lt;img src=&quot;/img/open-source.jpg&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;

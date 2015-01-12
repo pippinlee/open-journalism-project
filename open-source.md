@@ -63,7 +63,7 @@ Canadian news orgs in open source | Github
 Ubyssey         				   | [github.com/ubyssey/](https://github.com/ubyssey)         
 Globe and Mail         			   | [github.com/globeandmail](https://github.com/globeandmail)        
 Toronto Star         			   | [  ]()         
-National Post         			   | []()         
+National Post         			   |     
 
 
 

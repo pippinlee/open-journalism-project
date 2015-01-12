@@ -179,5 +179,6 @@ Site: [support.google.com/fusiontables/answer/2571232](https://support.google.co
 * [Differences between Raphael.js and D3.js](http://stackoverflow.com/questions/15219732/d3-js-vs-raphael-js)
 * [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/delivering_data_7.html)
 * [Flowing Data: learning R and visualizations](http://flowingdata.com/)
+* [A Guide to Bulletproofing Your Data, Propublica](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
 
 
