@@ -3,10 +3,11 @@
   @extend %padding-regular;
   display: inline-block;
   width: 100%;
-  background: none repeat scroll 0% 0% $header-desc-background-color;
+  background: none repeat scroll 0% 0% #6ec2cd;
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;
+  background-color: #6ec2cd;
 }
 .call-out p:last-child {
   margin-bottom: 0;
@@ -23,9 +24,16 @@
     p a:hover {
       @extend %link-hover;
     }
+    h1 {
+      text-align: center;
+    }
+  }
+  .post-teaser:nth-child(2n+2) {
+    background-color: #F0F0F0;
   }
   .excerpt {
     margin-top: 1em;
+    text-align: center;
   }
 }
 // pagination

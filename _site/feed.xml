@@ -5,7 +5,7 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description>Fun with journalism and code.</description>
-    <pubDate>Mon, 12 Jan 2015 17:10:45 -0500</pubDate>
+    <pubDate>Mon, 12 Jan 2015 18:03:20 -0500</pubDate>
     
       <item>
         <title>Mapping</title>
@@ -51,7 +51,7 @@
         <title>Media</title>
         <link>http://example.com/2014/11/27/media.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/27/media.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/media-camera.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/media.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 27 Nov 2014 00:00:00 -0500</pubDate>
@@ -61,7 +61,7 @@
         <title>Open source</title>
         <link>http://example.com/2014/11/26/open-source.html</link>
         <guid isPermaLink="true">http://example.com/2014/11/26/open-source.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/open-source.jpg&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/img/open-source.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 26 Nov 2014 00:00:00 -0500</pubDate>
