@@ -2,7 +2,7 @@
 layout: page
 title: Command line
 permalink: /command-line/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: ""
 ---
 
 This page is all about the command line tools

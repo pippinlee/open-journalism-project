@@ -2,7 +2,7 @@
 layout: page
 title: Security
 permalink: /security/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: ""
 ---
 
 This page is all about the security

@@ -2,13 +2,22 @@
 layout: page
 title: Mapping
 permalink: /mapping/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: ""
 ---
 
-This page is all about the maps
 
-### Mapping 🌍
-****
+<img class="tableContents" src="../../img/map-content.png">
+
+
+
+<ul class="listContent">
+  <li>How we got here</li>
+  <li>Problems in mapping</li>
+  <li>Where does the future lead</li>
+  <li>Examples and code</li>
+</ul>
+
+
 
 **Mapbox**
 

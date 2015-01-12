@@ -98,3 +98,22 @@ img[align=left] {
 img[align=right] {
   margin-left: 3%;
 }
+
+.tableContents {
+  border-right: 1px solid rgba(153, 153, 153, 0.32);
+  display: inline-block;
+  float: left;
+}
+
+ul.listContent {
+  width: 300px;
+  display: inline-block;
+  margin-bottom: 330px;
+  margin-left: 108px;
+  margin-top: 140px;
+  list-style-image: url('../img/compass.png');
+}
+
+ul.listContent li {
+  margin-bottom: 20px;
+}
