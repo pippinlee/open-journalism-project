@@ -7,7 +7,7 @@ feature-img: ""
 
 
 <div class="toc">
-  <img class="tableContents" src="{{ site.baseurl }}/img/map-content.png">
+  
 
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
