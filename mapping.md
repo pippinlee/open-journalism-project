@@ -6,7 +6,7 @@ feature-img: ""
 ---
 
 
-<img class="tableContents" src="../../img/map-content.png">
+<img class="tableContents" src="../../open-journalism-project/img/map-content.png">
 
 
 
