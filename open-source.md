@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Open Source
-permalink: /open-source/
+permalink: /Open-source/
 feature-img: ""
 ---
 

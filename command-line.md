@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Command line
-permalink: /command-line/
+permalink: /Command-line/
 feature-img: ""
 ---
 
