@@ -11,6 +11,16 @@
 
 **The goal is to show the accessible nature of the open web to anyone interested in the intersection of the web and news.**
 
+To help contribute first `git clone` this project. Then in the project directory run:
+
+`jekyll serve --watch --baseurl ''`
+
+You'll then be able to go to `localhost:4000` in your browser to view the site. The above `--watch` command allows your edits to a page like data.md or _posts.scss to be seen without having to restart the server.
+
+The above `--baseurl ''` allows the site to run locally without using the github url structure.
+
+To test that everything is working, open up `data.md` in your text editor and add a sentence to the How We Got Here section. Save the file with your changes, then you should be able to go back to your browser and refresh the page to see the changes.
+
 
 ## Content
 * 🌍 [Mapping](#user-content-mapping-)
