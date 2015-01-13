@@ -22,15 +22,15 @@ Security is about the difference in information between two parties, as well as 
 
 Security used to be seen in how we held out most valuable assets, in vaults and safes. 
 
-When much of our most value assets turned digital with computers, the field of computer security grew. The developemnt of the Internet meant that our computers where part of a network with any other computer that was connected to the Internet.
+When much of our most value assets turned digital with computers, the field of computer security grew. The development of the Internet meant that our computers where part of a network with any other computer that was connected to the Internet.
 
-The value of open source in security is allowing any security software to be analyzed by the public. The pulic nature of the code means any holes can be seen publicly.
+The value of open source in security is allowing any security software to be analyzed by the public. The public nature of the code means any holes can be seen publicly.
 
-This is preferred to companies and groups with secuirty software that can't be publicly analyzed and checked for flaws. Security software can be successful even if the code is public, if the security and encryption is done properly.
+This is preferred to companies and groups with security software that can't be publicly analyzed and checked for flaws. Security software can be successful even if the code is public, if the security and encryption is done properly.
 
 <h1 id="pis">Problems in security</h1>
 
-The benefits of having access to a near infinite amount of knowledge and information should be balanced with our increased vulnerability. Being conneted to servers and computers that may have malicious intents is an ongoing problem.
+The benefits of having access to a near infinite amount of knowledge and information should be balanced with our increased vulnerability. Being connected to servers and computers that may have malicious intents is an ongoing problem.
 
 The world's population will only become more literate with respect to using computers, but that also means more potential individuals leading attacks to steal information or attacking big target systems.
 
@@ -41,11 +41,11 @@ The world's population will only become more literate with respect to using comp
 
 As more of our information becomes digital, the need for proper security only increases. We will likely see more hardware that is "connected", which means your "connected" house will be also be open for vulnerabilities.
 
-In the long run, there will be increasing number of attacks by nefariously minded parties. Building all software with security as a basis for usage is already being seen in browsing technolgoies like SSL and HTTPS.
+In the long run, there will be increasing number of attacks by nefariously minded parties. Building all software with security as a basis for usage is already being seen in browsing technologies like SSL and HTTPS.
 
 <h1 id="eac">Examples and code</h1>
 
-### Security 🙊
+
 ****
 
 **Onionshare**
@@ -56,7 +56,7 @@ Site: [onionshare.org](https://onionshare.org/)
 
 Github: [github.com/micahflee/onionshare](https://github.com/nnnick/Chart.js/)
 
-Onionshare is a file sharing service built on top on the distrbuted network of Tor. Onionshare allows you to make a file on your computer temporarily available to others with a Tor browser through a special URL.
+Onionshare is a file sharing service built on top on the distributed network of Tor. Onionshare allows you to make a file on your computer temporarily available to others with a Tor browser through a special URL.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -66,7 +66,7 @@ Onionshare is a file sharing service built on top on the distrbuted network of T
 
 **SecureDrop**
 
-Securedrop is a lot like Dropbox, but for those who want a bit more attention to security. It was developed to allow whistleblowers to submit anonymized material to a specific organizations. A few news organization now have their own SecureDrop system to allow for secure submitting information and stories.
+SecureDrop is a lot like Dropbox, but for those who want a bit more attention to security. It was developed to allow whistleblowers to submit anonymized material to a specific organizations. A few news organization now have their own SecureDrop system to allow for secure submitting information and stories.
 
 ![securedrop]( {{ site.baseurl }}/img/security/securedrop.png)
 
@@ -93,7 +93,7 @@ Github: [github.com/TheTorProject](https://github.com/TheTorProject)
 
 Tor is one of the more popular pieces of open source security software because of the large community working to make it better and the increasing need to anonymize browsing traffic.
 
-Tor is a browser like Chrome, that allows you to surf the web, but with the goal of anonymizing your traffic. Tor achieves its anonyity by bouncing your communications around a distributed network of relays run by volunteers around the world which means your location is obfuscated.
+Tor is a browser like Chrome, that allows you to surf the web, but with the goal of anonymizing your traffic. Tor achieves its anonymity by bouncing your communications around a distributed network of relays run by volunteers around the world which means your location is obfuscated.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -111,7 +111,7 @@ Site: [crypto.cat](https://crypto.cat/)
 
 Github: [github.com/cryptocat/cryptocat](https://github.com/cryptocat/cryptocat)
 
-Crytocat is browser extension that runs on either Chrome, Firefox, or Safari. Cryptocat works off the premise of encrypting all chat before it gets sent to the Cryptochat servers, so only the other people in the chat room with the proper encryption keys can chat with you.
+Crytocat is browser extension that runs on either Chrome, Firefox, or Safari. Cryptocat works off the premise of encrypting all chat before it gets sent to the Cryptocat servers, so only the other people in the chat room with the proper encryption keys can chat with you.
 
 It's a much easier and friendlier experience than some of security focused communication software, but as they say on their website, it's not 100% bulletproof. All software is prone to bugs and holes that can hurt the encryption and make your communication less private.
 

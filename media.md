@@ -38,7 +38,7 @@ Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble h
 <h1 id="eac">Examples and code</h1>
 
 
-### Media 📷
+
 ****
 
 **Popcorn.js**
