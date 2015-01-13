@@ -18,15 +18,15 @@ feature-img: ""
 
 <h1 id="hwgh">How we got here</h1>
 
-When we collect information, we can do that in a number of different ways. Standardizing the ways we collect information over time has allowed us to compare and show relationships between time and changes in variables.
+When we collect information, we do so in a number of ways. Standardizing the methods we use for data gathering over time has allowed us to compare and show relationships over time and the changes in variables.
 
-Science was an early user of data. It allowed evidence to be promoted and compared to others evidence.
+Science has been an early user of data. It allowed evidence to be promoted and compared with other sources.
 
 <h1 id="pid">Problems in data</h1>
 
-With a decrease in cost, it is becoming more feasible to add sensors, or just things that collect information, to everything. In one sense this may make everything "smarter", but in another, it creates a lot of mess.
+With decreasing costs, it is becoming increasingly feasible to add sensors, objects which can collect information, to everything. On one hand this could make everything "smarter", but in another, it creates a lot of mess.
 
-Hardware runs on chips that often have vulnerabilities, so as more and more devices and items in our everyday lives try to produce more data to tell us more, we have to be aware that we open ourselves our to having our data stolen.
+Hardware runs on chips which contain vulnerabilities, therefore, as more and more devices and items in our everyday lives produce more data to tell us more, we have to be aware that we open ourselves our to having our data compromised (re: stolen).
 
 
 <h1 id="wdtfl">Where does the future lead</h1>
