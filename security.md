@@ -18,21 +18,30 @@ feature-img: ""
 
 <h1 id="hwgh">How we got here</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+Security is about the difference in information between two parties, as well as the barrier between the two parties having the same perfect information.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+Security used to be seen in how we held out most valuable assets, in vaults and safes. 
+
+When much of our most value assets turned digital with computers, the field of computer security grew. The developemnt of the Internet meant that our computers where part of a network with any other computer that was connected to the Internet.
+
+The value of open source in security is allowing any security software to be analyzed by the public. The pulic nature of the code means any holes can be seen publicly.
+
+This is preferred to companies and groups with secuirty software that can't be publicly analyzed and checked for flaws. Security software can be successful even if the code is public, if the security and encryption is done properly.
 
 <h1 id="pis">Problems in security</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+The benefits of having access to a near infinite amount of knowledge and information should be balanced with our increased vulnerability. Being conneted to servers and computers that may have malicious intents is an ongoing problem.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+The world's population will only become more literate with respect to using computers, but that also means more potential individuals leading attacks to steal information or attacking big target systems.
+
+
+
 
 <h1 id="wdtfl">Where does the future lead</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+As more of our information becomes digital, the need for proper security only increases. We will likely see more hardware that is "connected", which means your "connected" house will be also be open for vulnerabilities.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+In the long run, there will be increasing number of attacks by nefariously minded parties. Building all software with security as a basis for usage is already being seen in browsing technolgoies like SSL and HTTPS.
 
 <h1 id="eac">Examples and code</h1>
 
@@ -41,9 +50,13 @@ Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble h
 
 **Onionshare**
 
+![onionshare]( {{ site.baseurl }}/img/security/onionshare.png)
+
 Site: [onionshare.org](https://onionshare.org/)
 
 Github: [github.com/micahflee/onionshare](https://github.com/nnnick/Chart.js/)
+
+Onionshare is a file sharing service built on top on the distrbuted network of Tor. Onionshare allows you to make a file on your computer temporarily available to others with a Tor browser through a special URL.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -52,6 +65,10 @@ Github: [github.com/micahflee/onionshare](https://github.com/nnnick/Chart.js/)
 
 
 **SecureDrop**
+
+Securedrop is a lot like Dropbox, but for those who want a bit more attention to security. It was developed to allow whistleblowers to submit anonymized material to a specific organizations. A few news organization now have their own SecureDrop system to allow for secure submitting information and stories.
+
+![securedrop]( {{ site.baseurl }}/img/security/securedrop.png)
 
 Site: [freedom.press/securedrop](https://freedom.press/securedrop/)
 
@@ -68,9 +85,15 @@ Github: [github.com/freedomofpress/securedrop](https://github.com/freedomofpress
 
 **Tor**
 
+![tor]( {{ site.baseurl }}/img/security/tor.png)
+
 Site: [torproject.org](https://www.torproject.org)
 
 Github: [github.com/TheTorProject](https://github.com/TheTorProject)
+
+Tor is one of the more popular pieces of open source security software because of the large community working to make it better and the increasing need to anonymize browsing traffic.
+
+Tor is a browser like Chrome, that allows you to surf the web, but with the goal of anonymizing your traffic. Tor achieves its anonyity by bouncing your communications around a distributed network of relays run by volunteers around the world which means your location is obfuscated.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -82,9 +105,15 @@ Github: [github.com/TheTorProject](https://github.com/TheTorProject)
 
 **Cryptocat**
 
+![cryptocat]( {{ site.baseurl }}/img/security/cryptocat.png)
+
 Site: [crypto.cat](https://crypto.cat/)
 
 Github: [github.com/cryptocat/cryptocat](https://github.com/cryptocat/cryptocat)
+
+Crytocat is browser extension that runs on either Chrome, Firefox, or Safari. Cryptocat works off the premise of encrypting all chat before it gets sent to the Cryptochat servers, so only the other people in the chat room with the proper encryption keys can chat with you.
+
+It's a much easier and friendlier experience than some of security focused communication software, but as they say on their website, it's not 100% bulletproof. All software is prone to bugs and holes that can hurt the encryption and make your communication less private.
 
 <div class="resources" markdown='1'>
 * **Tutorials**

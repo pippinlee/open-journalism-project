@@ -3,6 +3,7 @@ layout: page
 title: Command line
 permalink: /Command-line/
 feature-img: ""
+hide: true
 ---
 
 <div class="toc">
