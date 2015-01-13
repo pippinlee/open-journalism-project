@@ -18,29 +18,35 @@ feature-img: ""
 
 <h1 id="hwgh">How we got here</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+When we collect information, we can do that in a number of different ways. Standardizing the ways we collect information over time has allowed us to compare and show relationships between time and changes in variables.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+Science was an early user of data. It allowed evidence to be promoted and compared to others evidence.
 
 <h1 id="pid">Problems in data</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+With a decrease in cost, it is becoming more feasible to add sensors, or just things that collect information, to everything. In one sense this may make everything "smarter", but in another, it creates a lot of mess.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+Hardware runs on chips that often have vulnerabilities, so as more and more devices and items in our everyday lives try to produce more data to tell us more, we have to be aware that we open ourselves our to having our data stolen.
+
 
 <h1 id="wdtfl">Where does the future lead</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+We will see more streams of data. Meaning the data never stops--it's not static. This is important to understand because it means the feedback loop for many things will be much shorter.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+The job of the future data visualizer will be dealing with this firehose and figuring out which parts are important in real time.
+
 
 <h1 id="eac">Examples and code</h1>
 
 **D3.js**
 
+![d3]( {{ site.baseurl }}/img/data/d3.png)
+
 Site: [d3js.org](http://d3js.org/)
 
 Github: [github.com/mbostock/d3](https://github.com/mbostock/d3)
+
+D3.js is the visualization library behind many of today's interactive visualization. It allows for deep control over all final interactions, but is also used as a building block for a number of other data tools.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -54,9 +60,13 @@ Github: [github.com/mbostock/d3](https://github.com/mbostock/d3)
 
 **Raphael.js**
 
+![raphael]( {{ site.baseurl }}/img/data/raphael.png)
+
 Site: [raphaeljs.com](http://raphaeljs.com/)
 
 Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael/)
+
+Raphael and D3 are often substitutable. Raphael, while not as complete of a interactive library, allows easy building of charts and graphs. 
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -64,7 +74,7 @@ Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovs
 	* [Intro to Raphael, HTML5 Rocks](http://www.html5rocks.com/en/tutorials/raphael/intro/)
 	* [Raphael JS tutorial part I](http://www.varunpant.com/posts/raphael-js-tutorial-part-i)
 	* [Using Raphael with SVGs](http://alistapart.com/article/svg-with-a-little-help-from-raphael)
-	* [Create a responsive and interactive animtion with Raphael.js](http://speckyboy.com/2014/08/27/creating-responsive-interactive-animations-raphael-js-2/)
+	* [Create a responsive and interactive animation with Raphael.js](http://speckyboy.com/2014/08/27/creating-responsive-interactive-animations-raphael-js-2/)
 	* VIDEO: [Raphael Part I](https://www.youtube.com/watch?v=IPy77zMsd0Y) [Raphael Part II](https://www.youtube.com/watch?v=mI1Vajr3Fiw)
 * **Examples**
 	* [Canada map and data](http://pippinlee.com/canada/)
@@ -73,9 +83,13 @@ Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovs
 
 **Kimono**
 
+![kimono]( {{ site.baseurl }}/img/data/kimono.png)
+
 Site: [KimonoLabs.com](https://www.kimonolabs.com/)
 
 Github: [github.com/kimonolabs](https://github.com/kimonolabs)
+
+Kimono's acts as the database and scraper. Kimono has a powerful user interface to select parts of a web page, that you can then set to scrape at certain intervals. Kimono then gives you access to the database in a static JSON file to work with.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -86,9 +100,13 @@ Github: [github.com/kimonolabs](https://github.com/kimonolabs)
 
 **Chart.js**
 
+![chartjs]( {{ site.baseurl }}/img/data/chartjs.png)
+
 Site: [chartjs.org](http://www.chartjs.org/)
 
 Github: [github.com/nnnick/Chart.js](https://github.com/nnnick/Chart.js/)
+
+Chart.js is a library for getting charts up and running quickly. The goal of the library is making beautiful charts simple to make.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -102,9 +120,13 @@ Github: [github.com/nnnick/Chart.js](https://github.com/nnnick/Chart.js/)
 
 **Chartbuilder**
 
+![chartbuilder]( {{ site.baseurl }}/img/data/chartbuilder.png)
+
 Site: [quartz.github.io/Chartbuilder](http://quartz.github.io/Chartbuilder/)
 
 Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/)
+
+Chartbuilder is an interface that makes it easy for anyone to type in some data and get a chart. This makes Chartbuilder one of the quickest ways to get a chart if you already have your data ready to go.
 
 <div class="resources" markdown='1'>
 * **Tutorial**
@@ -121,9 +143,13 @@ Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/
 
 **Sheetsee.js**
 
+![sheetsee]( {{ site.baseurl }}/img/data/sheetsee.png)
+
 Site: [jlord.us/sheetsee.js](http://jlord.us/sheetsee.js/)
 
 Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
+
+Sheetsee.js works together with Google Spreadsheets to allow you to connect a spreadsheet of data into charts and maps interactives.
 
 <div class="resources" markdown='1'>
 * **Tutorial**
@@ -137,7 +163,11 @@ Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
 
 **Tabletop.js**
 
+![tabletop]( {{ site.baseurl }}/img/data/tabletop.png)
+
 Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
+
+Like Sheetsee.js, Tabletop.js also using Google Spreadsheets as the database and then connects your page to allow for data to be connected to your interactive visuals.
 
 <div class="resources" markdown='1'>
 * **Tutorial**
@@ -159,7 +189,11 @@ Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
 
 **Fusion Tables**
 
+![fusiontables]( {{ site.baseurl }}/img/data/fusiontables.png)
+
 Site: [support.google.com/fusiontables/answer/2571232](https://support.google.com/fusiontables/answer/2571232)
+
+Fusion Tables is Google's tool that integrates with Spreadsheets to make creating visualizations simple.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -170,7 +204,7 @@ Site: [support.google.com/fusiontables/answer/2571232](https://support.google.co
 	* [Video: Google Fusion Table map visualization tutorial](https://www.youtube.com/watch?v=ok7gz4nAnFE)
 
 * **Examples**
-	* [Mapping the riots with poverty, Gaurdian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
+	* [Mapping the riots with poverty, Guardian](http://www.theguardian.com/news/datablog/interactive/2011/aug/10/poverty-riots-mapped)
 	* [Newspaper Map](http://newspapermap.com/)
 	* [What's the most congested street in Toronto, Globe and Mail](http://www.theglobeandmail.com/news/toronto/have-your-say-whats-the-most-congested-street-in-toronto/article2361996/)
 	* [Hurricane zones, WNYC](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
