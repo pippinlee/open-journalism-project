@@ -12,7 +12,7 @@ feature-img: ""
     <li><a href="#hwgh">How we got here</a></li>
     <li> <a href="#pid">Problems in data</a></li>
     <li><a href="#wdtfl">Where does the future lead</a></li>
-    <li><a href="#eac">Examples and code</a></li>
+    <li><a href="#eac">Examples and Code</a></li>
   </ul>
 </div>
 
@@ -223,4 +223,4 @@ Fusion Tables is Google's tool that integrates with Spreadsheets to make creatin
 
 [A Guide to Bulletproofing Your Data, Propublica](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
 
-
+[Data Will Help Us](http://datawillhelp.us), brief manifesto on the promise and perils of data
