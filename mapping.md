@@ -65,12 +65,13 @@ Github: [github.com/mapbox](https://github.com/mapbox)
 
 If you feel limited by Google Maps' styling, Mapbox's customizable maps are a great place to start playing. 
 
+<div class="resources" markdown='1'>
 * **Tutorials**
   * [Mapbox crashcourse](https://www.mapbox.com/tilemill/docs/crashcourse/introduction/)
   * [Mapbox studio tutorial](http://www.digital-geography.com/mapbox-studio-tutorial-1-installation-gui-first-map/#.VK45U2TF8m8)
 * **Examples**
   * [What can you build with Mapbox](https://www.mapbox.com/showcase/)
-
+</div>
 
 **Leaflet**
 
@@ -82,6 +83,7 @@ Github: [github.com/Leaflet](https://github.com/Leaflet/Leaflet)
 
 Leaflet is a JavaScript library that makes mapping without advance GIS experience easy. Need to build interactions markers and create an interactive layer? Leaflet does that.
 
+<div class="resources" markdown='1'>
 * **Tutorials**
   * [Leaflet quick start](http://leafletjs.com/examples/quick-start.html)
   * [Lay group and layer control](http://leafletjs.com/examples/layers-control.html)
@@ -93,8 +95,7 @@ Leaflet is a JavaScript library that makes mapping without advance GIS experienc
 * **Examples**
   * [Holiday lights 2012](http://www.spokesman.com/maps/holiday-lights-2012/)
   * [Where shooting occur in Chicago](http://crime.chicagotribune.com/chicago/shootings/)
-
-  
+</div>
 
 **Tilemill**
 
@@ -106,12 +107,14 @@ Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
 
 Tilemill is a layer that sits on top of Mapbox's mapping technology. It's goal is to make building beautiful interactive maps a really simple process whether you're a developer, journalist, or mapping hobbyist.
 
+
+<div class="resources" markdown='1'>
 * **Tutorials**
   * [The insanely illustrated guide to your first data-driven tilemill map](http://dataforradicals.com/the-insanely-illustrated-guide-to-your-first-tile-mill-map/)
   * [Video: Use TileMill with Open Data](http://vimeo.com/64578563)
   * [Cartography with TileMill](http://learnosm.org/en/map-design/tilemill/)
   * [Digital mapping with TileMill](http://www.lizhannaford.com/journalism/beginners-easy-guide-to-digital-mapping-with-tilemill/)
-  
+</div>
 
 **QGIS**
 
@@ -123,6 +126,8 @@ Github: [github.com/qgis](https://github.com/qgis/)
 
 QGIS is an application that runs from your desktop that allows you to edit, view, and analyze GIS data.
 
+<div class="resources" markdown='1'>
+
 * **Tutorials**
 	* [QGIS documentation](https://github.com/qgis/QGIS-Documentation)
 	* [Havard QGIS 2.0 Workshop](http://maps.cga.harvard.edu/qgis/)
@@ -131,7 +136,8 @@ QGIS is an application that runs from your desktop that allows you to edit, view
 	* Video: [QGIS III - Symbology](https://www.youtube.com/watch?v=duuYMufA-RU)
 	* Video: [QGIS IV - Finding & Selecting Data](https://www.youtube.com/watch?v=ZbnCrfoWnNk)
 
+</div>
 
-**Other Mapping links**
+<h1>Other Mapping links</h1>
 
-* [OpenStreetMap](http://www.openstreetmap.org/)
+[OpenStreetMap](http://www.openstreetmap.org/)

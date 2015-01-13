@@ -36,15 +36,13 @@ Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble h
 
 <h1 id="eac">Examples and code</h1>
 
-### Data 📈
-****
-
 **D3.js**
 
 Site: [d3js.org](http://d3js.org/)
 
 Github: [github.com/mbostock/d3](https://github.com/mbostock/d3)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [code.minnpost.com/simple-map-d3/](http://code.minnpost.com/simple-map-d3/)
 	* [Dashing D3.js ebook](https://www.dashingd3js.com/table-of-contents)
@@ -52,7 +50,7 @@ Github: [github.com/mbostock/d3](https://github.com/mbostock/d3)
 * **Examples**
 	* [How Obama Won Re-election](http://www.nytimes.com/interactive/2012/11/07/us/politics/obamas-diverse-base-of-support.html)
 	* [Racing Against History](http://www.nytimes.com/interactive/2012/08/01/sports/olympics/racing-against-history.html)
-
+</div>
 
 **Raphael.js**
 
@@ -60,6 +58,7 @@ Site: [raphaeljs.com](http://raphaeljs.com/)
 
 Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael/)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [An introduction to Raphael JS library, Tutsplus+](http://code.tutsplus.com/tutorials/an-introduction-to-the-raphael-js-library--net-7186)
 	* [Intro to Raphael, HTML5 Rocks](http://www.html5rocks.com/en/tutorials/raphael/intro/)
@@ -70,7 +69,7 @@ Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovs
 * **Examples**
 	* [Canada map and data](http://pippinlee.com/canada/)
 	* [Easing with Raphael.js](http://raphaeljs.com/easing.html)
-
+</div>
 
 **Kimono**
 
@@ -78,12 +77,12 @@ Site: [KimonoLabs.com](https://www.kimonolabs.com/)
 
 Github: [github.com/kimonolabs](https://github.com/kimonolabs)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [Interactive: Create your first API](https://www.kimonolabs.com/learn/create-first-api)
 	* [Web scraping with Kimono Labs](http://moz.com/blog/web-scraping-with-kimono-labs)
 	* [Video: Using Kimono](https://www.kimonolabs.com/learn/videos)
-	
-	
+</div>
 
 **Chart.js**
 
@@ -91,13 +90,14 @@ Site: [chartjs.org](http://www.chartjs.org/)
 
 Github: [github.com/nnnick/Chart.js](https://github.com/nnnick/Chart.js/)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [Build a dynamic dashboard with ChartJS](http://webdesign.tutsplus.com/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363)
 	* [Create animated charts with Chart.JS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/	)
 	* [Getting started with Chart.js](http://kushagragour.in/blog/2013/06/getting-started-with-chartjs/)
 * **Examples**
 	* Thing1
-
+</div>
 
 
 **Chartbuilder**
@@ -106,6 +106,7 @@ Site: [quartz.github.io/Chartbuilder](http://quartz.github.io/Chartbuilder/)
 
 Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/)
 
+<div class="resources" markdown='1'>
 * **Tutorial**
 	* [How to turn everyone in your newsroom into graphics editors with Chartbuilder](http://www.niemanlab.org/2013/07/how-to-turn-everyone-in-your-newsroom-into-a-graphics-editor/)
 	* [How to use Chartbuilder to make simple graphics fast](http://www.poynter.org/how-tos/220572/how-to-use-chartbuilder-to-make-simple-graphics-fast/
@@ -115,7 +116,7 @@ Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/
 	* [Water cleanup commences, New Hampshire Public Radio](http://nhpr.org/post/water-cleanup-commences-beede-story-shows-superfund-laws-flaws)
 	* [Bike Sales in Europe, NPR](http://www.npr.org/blogs/parallels/2013/10/24/240493422/in-most-every-european-country-bikes-are-outselling-cars)
 	* [Small business still reeling from credit crunch](http://www.cnbc.com/id/101009116)
-
+</div>
 
 
 **Sheetsee.js**
@@ -124,6 +125,7 @@ Site: [jlord.us/sheetsee.js](http://jlord.us/sheetsee.js/)
 
 Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
 
+<div class="resources" markdown='1'>
 * **Tutorial**
 	* [About sheetsee.js](https://github.com/jlord/sheetsee.js/blob/master/docs/about.md)
 	* [Shetsee.js: the basics](https://github.com/jlord/sheetsee.js/blob/master/docs/basics.md)
@@ -131,12 +133,13 @@ Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
 * **Examples**
 	* [Mapping hack spots](http://jlord.us/hack-spots/)
 	* [Budget visualization](http://seepennywork.in/#)
-
+</div>
 
 **Tabletop.js**
 
 Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
 
+<div class="resources" markdown='1'>
 * **Tutorial**
 	* [Tabletop.js's Github README](https://github.com/jsoma/tabletop)
 	* [Why I don't use Tabletop.js in production](https://gist.github.com/jsvine/3295633)
@@ -151,13 +154,14 @@ Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
 	* [You Might Be the 47 Percent If..., Mother Jones](http://www.motherjones.com/politics/2012/09/charts-47-percent-romney-tax-data)
 	* [Police Departments, Massachusetts](http://dataforradicals.com/js/tabletop-to-datatables/)
 	* [Mother Jones News Quiz](http://www.motherjones.com/politics/2013/02/back-line-green-card-immigration-reform-quiz)
-
+</div>
 
 
 **Fusion Tables**
 
 Site: [support.google.com/fusiontables/answer/2571232](https://support.google.com/fusiontables/answer/2571232)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [Google's Fusion Tables tutorials](https://support.google.com/fusiontables/answer/184641?hl=en)
 	* [Mountain Bike trails](http://blog.mtbguru.com/2010/02/24/mtbguru-tracks-as-seen-through-google-fusion-tables/)
@@ -170,15 +174,19 @@ Site: [support.google.com/fusiontables/answer/2571232](https://support.google.co
 	* [Newspaper Map](http://newspapermap.com/)
 	* [What's the most congested street in Toronto, Globe and Mail](http://www.theglobeandmail.com/news/toronto/have-your-say-whats-the-most-congested-street-in-toronto/article2361996/)
 	* [Hurricane zones, WNYC](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
+</div>
 
 
-	
 **Other data links**
 
-* [Comparing Paper.js, Processesing.js, and Raphael.js](http://www.smashingmagazine.com/2012/02/22/web-drawing-throwdown-paper-processing-raphael/)
-* [Differences between Raphael.js and D3.js](http://stackoverflow.com/questions/15219732/d3-js-vs-raphael-js)
-* [Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/delivering_data_7.html)
-* [Flowing Data: learning R and visualizations](http://flowingdata.com/)
-* [A Guide to Bulletproofing Your Data, Propublica](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
+[Comparing Paper.js, Processesing.js, and Raphael.js](http://www.smashingmagazine.com/2012/02/22/web-drawing-throwdown-paper-processing-raphael/)
+
+[Differences between Raphael.js and D3.js](http://stackoverflow.com/questions/15219732/d3-js-vs-raphael-js)
+
+[Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/delivering_data_7.html)
+
+[Flowing Data: learning R and visualizations](http://flowingdata.com/)
+
+[A Guide to Bulletproofing Your Data, Propublica](https://github.com/propublica/guides/blob/master/data-bulletproofing.md)
 
 

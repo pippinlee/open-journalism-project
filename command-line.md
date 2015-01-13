@@ -45,10 +45,11 @@ Site: [rg3.github.io/youtube-dl](http://rg3.github.io/youtube-dl/)
 
 Github: [github.com/rg3/youtube-dl](https://github.com/rg3/youtube-dl)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [rg3 documentation](http://rg3.github.io/youtube-dl/documentation.html)
 	* [Downloading videos from Youtube](http://community.linuxmint.com/tutorial/view/1040)
-
+</div>
 
 **gifme**
 
