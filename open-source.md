@@ -11,28 +11,29 @@ feature-img: ""
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
     <li> <a href="#pios">Problems in open source</a></li>
-    <li><a href="#wdtfl">Where does the future lead?</a></li>
     <li><a href="#eac">Examples and Code</a></li>
+    <li><a href="#github">List of news orgs on Github</a></li>
   </ul>
 </div>
 
 <h1 id="hwgh">How we got here</h1>
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+When computers were giant room sized machines, the people who operated them (usually academics) would use tape to write their programs on. They would then feed these pieces of tape into the reader which would interpret their programs and run it on the computer.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+![tape]( {{ site.baseurl }}/img/open-source/tape.png)
 
-<h1 id="pim">Problems in open source</h1>
+The programs were usually very small in memory because computers could only process small bits of information. The idea of open source can be traced back to these early computer users storing their tapes in a drawer so that anyone using the computer could use their code, thus saving them having to repeat writing the program themselves on the tape.
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+<h1 id="pios">Problems in open source</h1>
 
-<h1 id="wdtfl">Where does the future lead?</h1>
+Technologies like Git, SVG, or Mercurial allow for anyone to add and contribute to projects. Tapping into the abilities of connecting many great minds to work on projects together has obvious benefits, but along with that comes a relaxed structure of the development process.
 
-Conditioning bacterial dry hopping. abbey finishing hops, kolsch brew sour/acidic, " bitter caramel malt." lagering, saccharification final gravity bottom fermenting yeast wort sparge yeast hops dextrin. filter ester. secondary fermentation bung, goblet hops. biere de garde bacterial brew kettle? tulip glass lambic bacterial top-fermenting yeast. ipa balthazar dry hopping bittering hops hoppy lauter tun ale carbonation. top-fermenting yeast mash tun aerobic hops top-fermenting yeast brew kettle carbonation.
+A good open source process will have a few maintainers that guide the project along. Like any other type of project, it helps having a few people in charge and making decisions when they need to be made.
 
-Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble hops length wit anaerobic crystal malt. carbonation length carbonation, autolysis tulip glass?
+The open source world has politics like any other community. But the power of open source is that if anyone doesn't like a direction in which a project is going they can "fork" it. By doing so they can create their own version and build the features they need or want to be included. If done right this can create healthy competition.
+
+Along with the competition will always be a concern of projects fragmenting into too many different versions. Choice is good, but just like grocery shopping, it's not always helpful to have 100 different kinds of bread to choose from.
 
 <h1 id="eac">Examples and Code</h1>
 
@@ -42,6 +43,8 @@ Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble h
 **Github**
 
 Site: [github.com](https://github.com/)
+
+![branching]( {{ site.baseurl }}/img/open-source/branching.png)
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -58,7 +61,7 @@ Site: [github.com](https://github.com/)
 
 
 
-
+<h1 id="github">List of news organizations of Github</h1>
 
 Canadian news orgs in open source | Github
 :--------------------------------:| :-----------: | :-----------:
@@ -75,7 +78,7 @@ US news orgs in open source 	   | Github
 :--------------------------------:| :-----------: | :-----------:
 NYTimes         				   | [github.com/nytimes](https://github.com/nytimes/) & [github.com/nytlabs](https://github.com/nytlabs)
 Knightlab (Northwestern)          | [github.com/NUKnightLab](https://github.com/NUKnightLab)        
-Propublica         				   | [github.com/propublica](https://github.com/propublica/)         
+ProPublica         				   | [github.com/propublica](https://github.com/propublica/)         
 NPR       			  			   | [github.com/npr](https://github.com/npr) & [github.com/nprapps](https://github.com/nprapps) 
 Chicago Tribune					   | [github.com/newsapps](https://github.com/newsapps)
 LA Times 						   | [github.com/datadesk](https://github.com/datadesk)

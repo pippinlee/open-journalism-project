@@ -108,16 +108,19 @@ img[align=right] {
 }
 
 ul.listContent {
-  display: inline-block;
+  margin: 0 auto;
+  padding: 0;
+  display: block;
   margin-bottom: 130px;
   list-style-image: url('../img/compass.png');
-  text-align: left;
-  width: 400px;
+  text-align: center;
+  width: 349px;
 }
 
 ul.listContent li {
   margin-bottom: 30px;
   font-size: 26px;
+  text-align: left;
 }
 
 .page-link {
