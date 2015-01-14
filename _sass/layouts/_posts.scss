@@ -71,9 +71,19 @@ header {
     padding: 10px;
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 407px;
+    width: 430px;
     li {
       text-align: left;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      a {
+        margin-left: 20px;
+        margin-bottom: 20px;
+      }
+    }
+    ul {
+      list-style: none;
+      padding-left: 10px;
     }
   }
 }

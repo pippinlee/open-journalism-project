@@ -43,16 +43,18 @@ Yeast barley cold filter brew. goblet heat exchanger malt extract. krug, noble h
 
 Site: [github.com](https://github.com/)
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [Hello World on Github](https://guides.github.com/activities/hello-world/)
 	* [Git - The simpel guide](http://rogerdudler.github.io/git-guide/)
 	* [Git flight rules](https://github.com/k88hudson/git-flight-rules)
 	* [How to Github](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 	* [Interactive: Try Git](https://try.github.io/levels/1/challenges/1)
-	
+</div>
+
 **Other resources about open source and journalism**
 
-* [Mozilla's Source](https://source.opennews.org/en-US/)
+[Mozilla's Source](https://source.opennews.org/en-US/)
 
 
 
