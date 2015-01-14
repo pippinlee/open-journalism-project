@@ -1,6 +1,6 @@
 # Open Journalism Project
 
-*Resource to bring code and journalism together for fun*
+*Resource(s) to bring code and journalism together for fun*
 
 
 ##Contribute?

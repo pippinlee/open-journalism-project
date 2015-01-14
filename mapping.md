@@ -12,8 +12,8 @@ feature-img: ""
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
     <li> <a href="#pim">Problems in mapping</a></li>
-    <li><a href="#wdtfl">Where does the future lead</a></li>
-    <li><a href="#eac">Examples and code</a></li>
+    <li><a href="#wdtfl">Where does the future lead?</a></li>
+    <li><a href="#eac">Examples and Code</a></li>
   </ul>
 </div>
 
@@ -24,12 +24,9 @@ Early maps on parchment allowed travellers to mark their way, giving representat
 The compass lead to a big step forward, as it meant there was a standard of measurement that anyone with a shiny compass could get a specific measurement of their positive relative to the North Pole. This lead to more accurate mapping.
 
 
-
-
-
 <h1 id="pim">Problems in mapping</h1>
 
-Early mapping had the problem of reproducibility. The printing press did not yet exist, so sharing a map, or recreating a map meant hand-copying, which is prone to mistakes, and created to big barrier to sharing geographic information.
+Early mapping had the problem of reproducibility. The printing press did not yet exist, so sharing a map, and recreating a map meant hand-copying, which is prone to mistakes, and created to big barrier to sharing geographic information.
 
 When maps began becoming digital, it meant that using a shared geographic dataset, everyone could access the same mapping information.
 
@@ -41,7 +38,7 @@ Native apps allow for things to happen bases on a user's current location. Notif
 
 
 
-<h1 id="wdtfl">Where does the future lead</h1>
+<h1 id="wdtfl">Where does the future lead?</h1>
 
 In 2005 Google made a big step forward in online mapping, when they released Google Maps. It was the first real test of using JavaScript in the browser to build a dynamic application.
 
@@ -52,7 +49,7 @@ People are relying on maps as a core technology of mobile phones to find their w
 Currently mobile technology means performance is still better in native apps for phones, but the gap between mobile browsers and native applications for phones is closing as mobile browser engines because increasingly performant.
 
 
-<h1 id="eac">Examples and code</h1>
+<h1 id="eac">Examples and Code</h1>
 
 
 **Mapbox**

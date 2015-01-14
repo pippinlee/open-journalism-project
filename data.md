@@ -11,7 +11,7 @@ feature-img: ""
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
     <li> <a href="#pid">Problems in data</a></li>
-    <li><a href="#wdtfl">Where does the future lead</a></li>
+    <li><a href="#wdtfl">Where does the future lead?</a></li>
     <li><a href="#eac">Examples and Code</a></li>
   </ul>
 </div>
@@ -29,14 +29,14 @@ With decreasing costs, it is becoming increasingly feasible to add sensors, obje
 Hardware runs on chips which contain vulnerabilities, therefore, as more and more devices and items in our everyday lives produce more data to tell us more, we have to be aware that we open ourselves our to having our data compromised (re: stolen).
 
 
-<h1 id="wdtfl">Where does the future lead</h1>
+<h1 id="wdtfl">Where does the future lead?</h1>
 
 We will see more streams of data. Meaning the data never stops--it's not static. This is important to understand because it means the feedback loop for many things will be much shorter.
 
 The job of the future data visualizer will be dealing with this firehose and figuring out which parts are important in real time.
 
 
-<h1 id="eac">Examples and code</h1>
+<h1 id="eac">Examples and Code</h1>
 
 **D3.js**
 
