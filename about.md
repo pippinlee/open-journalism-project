@@ -13,4 +13,4 @@ It is also an ode to all the open source projects that have been created in hope
 
 This site will try to concisely answer *"what is possible"* as well as *"how is this possible"*.
 
-If you're curious to about how you can help with this project, say hey at <a href="mailto:pippinblee@gmail.com?subject=Open Journalism Project">pippinblee@gmail.com</a>
+If you're curious to about how you can help with this project, say hey at <a href="mailto:pippin@pippinlee.com?subject=Open Journalism Project">pippin@pippinlee.com</a>
