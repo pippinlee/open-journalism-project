@@ -18,22 +18,22 @@ feature-img: ""
 
 <h1 id="hwgh">How we got here</h1>
 
-When computers were giant room sized machines, the people who operated them (usually academics) would use tape to write their programs on. They would then feed these pieces of tape into the reader which would interpret their programs and run it on the computer.
+When computers were giant room-sized machines, the people who operated them (usually academics) would use tape as a medium to "write" their programs on. They would then feed these lengths of tape into a reader which would interpret their programs and run them on the computer.
 
 ![tape]( {{ site.baseurl }}/img/open-source/tape.png)
 
-The programs were usually very small in memory because computers could only process small bits of information. The idea of open source can be traced back to these early computer users storing their tapes in a drawer so that anyone using the computer could use their code, thus saving them having to repeat writing the program themselves on the tape.
+The programs were usually relatively small because computers could only process small bits of information. The idea of open source can be traced back to these early computer users, who stored their tapes in a drawer so that anyone using the computer could use their code. This saved colleagues from having to re-writing the program themselves on another tape.
 
 
 <h1 id="pios">Problems in open source</h1>
 
-Technologies like Git, SVN, or Mercurial allow for anyone to add and contribute to projects. Tapping into the abilities of connecting many great minds to work on projects together has obvious benefits, but along with that comes a relaxed structure of the development process.
+Technologies like Git, SVN, or Mercurial allow for anyone to contribute to projects. Connecting many great minds to work on projects together has obvious benefits, but along with that comes a relaxed structure of the development process.
 
-A good open source process will have a few maintainers that guide the project along. Like any other type of project, it helps having a few people in charge and making decisions when they need to be made.
+A good open source process has a few maintainers that guide the project along. Like on any other type of project, it helps to have a few people in charge who make decisions when they need to be made.
 
 The open source world has politics like any other community. But the power of open source is that if anyone doesn't like a direction in which a project is going they can "fork" it. By doing so they can create their own version and build the features they need or want to be included. If done right this can create healthy competition.
 
-Along with the competition will always be a concern of projects fragmenting into too many different versions. Choice is good, but just like grocery shopping, it's not always helpful to have 100 different kinds of bread to choose from.
+Along with the competition will always be a concern of projects fragmenting into too many different versions. Choice is good but sometimes there's too much variety. It's just like when you're grocery shopping: it's not always helpful to have 100 different kinds of bread to choose from.
 
 <h1 id="eac">Examples and Code</h1>
 
