@@ -113,8 +113,6 @@ Chart.js is a library for getting charts up and running quickly. The goal of the
 	* [Build a dynamic dashboard with ChartJS](http://webdesign.tutsplus.com/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363)
 	* [Create animated charts with Chart.JS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/	)
 	* [Getting started with Chart.js](http://kushagragour.in/blog/2013/06/getting-started-with-chartjs/)
-* **Examples**
-	* Thing1
 </div>
 
 
