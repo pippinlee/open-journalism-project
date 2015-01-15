@@ -35,7 +35,9 @@ The world's population will inevitably become more computer literate. While that
 
 <h1 id="wdtfl">Where does the future lead?</h1>
 
-As more of our information becomes digital, the need for proper security increases. We will likely see more "smart" hardware in our homes and the larger human environment. The very fact that this hardware is "connected" makes your home potentially vulnerable. Imagine that you're heading off for a much needed winter vacation. You set your smart thermostat to keep your home cool while you're away, and to turn on your heating again in a week--just before you return home. Anyone who can access this information would suspect that there will be no-one in the house that week, leaving it vulnerable to a break-in. Security is needed here, too.
+As more of our information becomes digital, the need for proper security increases. We will likely see more "smart" hardware in our homes and the larger human environment. The very fact that this hardware is "connected" makes your home potentially vulnerable.
+
+Imagine that you're heading off for a much needed winter vacation. You set your smart thermostat to keep your home cool while you're away, and to turn on your heating again in a week--just before you return home. Anyone who can access this information would suspect that there will be no-one in the house that week, leaving it vulnerable to a break-in. Security is needed here, too.
 
 In the long run, there will be an increasing number of attacks by nefariously minded parties. Building all software with security as a basis for usage is already being seen in browsing technologies like SSL and HTTPS.
 
