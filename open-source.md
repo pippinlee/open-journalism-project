@@ -27,7 +27,7 @@ The programs were usually very small in memory because computers could only proc
 
 <h1 id="pios">Problems in open source</h1>
 
-Technologies like Git, SVG, or Mercurial allow for anyone to add and contribute to projects. Tapping into the abilities of connecting many great minds to work on projects together has obvious benefits, but along with that comes a relaxed structure of the development process.
+Technologies like Git, SVN, or Mercurial allow for anyone to add and contribute to projects. Tapping into the abilities of connecting many great minds to work on projects together has obvious benefits, but along with that comes a relaxed structure of the development process.
 
 A good open source process will have a few maintainers that guide the project along. Like any other type of project, it helps having a few people in charge and making decisions when they need to be made.
 
