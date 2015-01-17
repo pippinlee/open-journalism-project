@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media
-permalink: /Media/
+permalink: /media/
 feature-img: ""
 hide: true
 ---
