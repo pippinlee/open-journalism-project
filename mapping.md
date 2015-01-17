@@ -19,34 +19,34 @@ feature-img: ""
 
 <h1 id="hwgh">How we got here</h1>
 
-Early maps on parchment allowed travellers to mark their way, giving representation and rough relationships between distance and space.
+Early maps on parchment allowed travellers to find their way, representing landmarks and indicating relationships between distance and space.
 
-The compass lead to a big step forward, as it meant there was a standard of measurement that anyone with a shiny compass could get a specific measurement of their positive relative to the North Pole. This lead to more accurate mapping.
+The compass lead to a big step forward, as it meant there was a standard of direction. The compass needle always pointed toward the North Pole, enabling travellers to orient themselves. This lead to more accurate mapping.
 
 
 <h1 id="pim">Problems in mapping</h1>
 
-Early mapping had the problem of reproducibility. The printing press did not yet exist, so sharing a map, and recreating a map meant hand-copying, which is prone to mistakes, and created to big barrier to sharing geographic information.
+Early mapping had the problem of reproducibility. Before the invention of the printing press, sharing a map meant hand-copying, which is slow and prone to mistakes. This was a big barrier to sharing geographic information.
 
-When maps began becoming digital, it meant that using a shared geographic dataset, everyone could access the same mapping information.
+The advent of the printing press allowed many copies of a map to be created relatively quickly, but updating the information on a map still involved creating new printing plates. It was quicker than hand copying, but still kept control of what was shown on maps in the hands of just a few people. Now many maps are digital, with the geographic dataset widely available to the public. Now everyone can access and use the same mapping information.
 
-While mobile browser engines are increasingly becoming more powerful and efficient, there is still a big benefit with respect to user experience to building a map feature into a native app versus a mobile web page.
+While mobile browser engines are becoming increasingly powerful and efficient, there is still a big benefit with respect to user experience to building a map feature into a native app rather than using a mobile web page.
 
 Most phone operating systems allow developers to easily hook into the phone's core mapping API, and therefore give access to a user's phone location. 
 
-Native apps allow for things to happen bases on a user's current location. Notifications or events can be triggered within a native app in the background, that can't yet be done on mobile because mobile browsers don't allow websites that background connections to a phone user's location. 
+Native apps allow for things to happen based on the user's current location. Notifications or events can be triggered in the background, within a native app, but this can't yet be done on a mobile web page because mobile browsers don't allow websites to make background connections to a phone user's location. 
 
 
 
 <h1 id="wdtfl">Where does the future lead?</h1>
 
-In 2005 Google made a big step forward in online mapping, when they released Google Maps. It was the first real test of using JavaScript in the browser to build a dynamic application.
+In 2005 Google made a big step forward in online mapping when they released Google Maps. It was the first real test of using the language JavaScript in the browser to build a dynamic application.
 
-As JavaScript the language has solidified its spot as a core piece of the web, many more mapping tools have been written in JavaScript, with many benefitting from mapping related data formats such as [GeoJSON](http://geojson.org/).
+As JavaScript has solidified its position as a core piece of the web, many more mapping tools have been written in JavaScript, many of which benefit from mapping-related data formats such as [GeoJSON](http://geojson.org/).
 
-People are relying on maps as a core technology of mobile phones to find their way around the world, when travelling or commuting.
+People increasingly rely on maps as a core technology of mobile phones to find their way around the world, when travelling or commuting.
 
-Currently mobile technology means performance is still better in native apps for phones, but the gap between mobile browsers and native applications for phones is closing as mobile browser engines because increasingly performant.
+Currently mobile technology means performance is still better in native apps than in mobile browsers for phones. However, the improved performance of mobile browser engines is starting to close the gap.
 
 
 <h1 id="eac">Examples and Code</h1>
@@ -78,7 +78,7 @@ Site: [leafletjs.com](http://leafletjs.com/)
 
 Github: [github.com/Leaflet](https://github.com/Leaflet/Leaflet)
 
-Leaflet is a JavaScript library that makes mapping without advance GIS experience easy. Need to build interactions markers and create an interactive layer? Leaflet does that.
+Leaflet is a JavaScript library that makes mapping easy even without advanced GIS experience. Need to build interactions markers and create an interactive layer? Leaflet does that.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -102,7 +102,7 @@ Site: [mapbox.com/tilemill](https://www.mapbox.com/tilemill/)
 
 Github: [github.com/mapbox/tilemill](https://github.com/mapbox/tilemill)
 
-Tilemill is a layer that sits on top of Mapbox's mapping technology. It's goal is to make building beautiful interactive maps a really simple process whether you're a developer, journalist, or mapping hobbyist.
+Tilemill is a layer that sits on top of Mapbox's mapping technology. Its goal is to make the process of building beautiful interactive maps really simple, whether you're a developer, journalist, or mapping hobbyist.
 
 
 <div class="resources" markdown='1'>
@@ -121,7 +121,7 @@ Site: [qgis.org](http://www.qgis.org/en/site/)
 
 Github: [github.com/qgis](https://github.com/qgis/)
 
-QGIS is an application that runs from your desktop that allows you to edit, view, and analyze GIS data.
+QGIS is an application that runs from your desktop, allowing you to edit, view, and analyze GIS data.
 
 <div class="resources" markdown='1'>
 

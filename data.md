@@ -18,22 +18,22 @@ feature-img: ""
 
 <h1 id="hwgh">How we got here</h1>
 
-When we collect information, we do so in a number of ways. Standardizing the methods we use for data gathering over time has allowed us to compare and show relationships over time and the changes in variables.
+People have always collected information about themselves, others, and the world around us. More recently, we have developed many tools and devices to help us gather data in any number of ways. The number of variables we can analyze is almost infinite. Using increasingly standardized methods of data gathering allows us to compare variables and show how relationships between many variables change over time.
 
-Science has been an early user of data. It allowed evidence to be promoted and compared with other sources.
+Science--in the modern sense of the word--uses data as a way of collecting and analyzing evidence. Data allows us to quantitatively compare information from a variety of sources.
 
 <h1 id="pid">Problems in data</h1>
 
-With decreasing costs, it is becoming increasingly feasible to add sensors, objects which can collect information, to everything. On one hand this could make everything "smarter", but in another, it creates a lot of mess.
+Decreasing costs have increased the feasibility of adding sensors (devices that can collect information) to almost everything. On one hand this could make everything "smarter", but on the other, it creates a lot of mess.
 
-Hardware runs on chips which contain vulnerabilities, therefore, as more and more devices and items in our everyday lives produce more data to tell us more, we have to be aware that we open ourselves our to having our data compromised (re: stolen).
+Hardware runs on chips, which contain vulnerabilities. Therefore, as more devices in our everyday lives produce more data to tell us more, we must be aware that we open ourselves up to having our data compromised (= stolen).
 
 
 <h1 id="wdtfl">Where does the future lead?</h1>
 
-We will see more streams of data. Meaning the data never stops--it's not static. This is important to understand because it means the feedback loop for many things will be much shorter.
+We will see more streams of data: data that never stops changing and updating. Streaming data is not static. It's like a firehose: a constant flow of information. This is important to understand because it means that any feedback is almost instantaneous, but reflects only one instant in time. If you perform the analysis again a moment later, the result may be different.
 
-The job of the future data visualizer will be dealing with this firehose and figuring out which parts are important in real time.
+The job of the future data visualizer will be to deal with this firehose of data and to figure out which parts are important in real time.
 
 
 <h1 id="eac">Examples and Code</h1>
@@ -46,7 +46,7 @@ Site: [d3js.org](http://d3js.org/)
 
 Github: [github.com/mbostock/d3](https://github.com/mbostock/d3)
 
-D3.js is the visualization library behind many of today's interactive visualization. It allows for deep control over all final interactions, but is also used as a building block for a number of other data tools.
+D3.js is the visualization library behind many of today's interactive visualizations. It allows for deep control over all final interactions, but is also used as a building block for a number of other data tools.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -66,7 +66,7 @@ Site: [raphaeljs.com](http://raphaeljs.com/)
 
 Github: [github.com/DmitryBaranovskiy/raphael](https://github.com/DmitryBaranovskiy/raphael/)
 
-Raphael and D3 are often substitutable. Raphael, while not as complete of a interactive library, allows easy building of charts and graphs. 
+Raphael and D3 are often interchangeable. Raphael, while not so complete an interactive library as D3, makes building charts and graphs easy. 
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -89,7 +89,7 @@ Site: [KimonoLabs.com](https://www.kimonolabs.com/)
 
 Github: [github.com/kimonolabs](https://github.com/kimonolabs)
 
-Kimono's acts as the database and scraper. Kimono has a powerful user interface to select parts of a web page, that you can then set to scrape at certain intervals. Kimono then gives you access to the database in a static JSON file to work with.
+Kimono acts as the database and scraper. Kimono has a powerful user interface that you can set to select parts of a web page, and then "scrape" it at set time intervals. Kimono then gives you access to the database in a static JSON file to work with.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
@@ -106,15 +106,13 @@ Site: [chartjs.org](http://www.chartjs.org/)
 
 Github: [github.com/nnnick/Chart.js](https://github.com/nnnick/Chart.js/)
 
-Chart.js is a library for getting charts up and running quickly. The goal of the library is making beautiful charts simple to make.
+Chart.js is a library for getting charts up and running quickly. The goal of the library is to make it easy to create beautiful charts.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
 	* [Build a dynamic dashboard with ChartJS](http://webdesign.tutsplus.com/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363)
 	* [Create animated charts with Chart.JS](http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/	)
 	* [Getting started with Chart.js](http://kushagragour.in/blog/2013/06/getting-started-with-chartjs/)
-* **Examples**
-	* Thing1
 </div>
 
 
@@ -126,7 +124,7 @@ Site: [quartz.github.io/Chartbuilder](http://quartz.github.io/Chartbuilder/)
 
 Github: [github.com/Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder/)
 
-Chartbuilder is an interface that makes it easy for anyone to type in some data and get a chart. This makes Chartbuilder one of the quickest ways to get a chart if you already have your data ready to go.
+Chartbuilder is an interface that makes it easy for anyone to type in data and have it displayed as a chart. This makes Chartbuilder one of the quickest ways to produce a chart if you already have your data ready to go.
 
 <div class="resources" markdown='1'>
 * **Tutorial**
@@ -149,7 +147,7 @@ Site: [jlord.us/sheetsee.js](http://jlord.us/sheetsee.js/)
 
 Github: [github.com/jlord/sheetsee.js](https://github.com/jlord/sheetsee.js)
 
-Sheetsee.js works together with Google Spreadsheets to allow you to connect a spreadsheet of data into charts and maps interactives.
+Sheetsee.js works together with Google Spreadsheets to allow you to convert a spreadsheet of data into interactive charts and maps.
 
 <div class="resources" markdown='1'>
 * **Tutorial**
@@ -167,7 +165,7 @@ Sheetsee.js works together with Google Spreadsheets to allow you to connect a sp
 
 Github: [github.com/jsoma/tabletop](https://github.com/jsoma/tabletop)
 
-Like Sheetsee.js, Tabletop.js also using Google Spreadsheets as the database and then connects your page to allow for data to be connected to your interactive visuals.
+Like Sheetsee.js, Tabletop.js also using Google Spreadsheets as the database and then connects to your page to allow you to connect data to your interactive visuals.
 
 <div class="resources" markdown='1'>
 * **Tutorial**

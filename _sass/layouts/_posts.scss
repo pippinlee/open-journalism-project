@@ -56,9 +56,8 @@ header {
       border-radius: 5px;
     }
     p, h1 {
-      max-width: 700px;
       text-align: left;
-      margin: 3% 5%;
+      min-width: 400px;
     }
     p {
       line-height: 200%;
@@ -71,9 +70,19 @@ header {
     padding: 10px;
     margin-top: 50px;
     margin-bottom: 50px;
-    width: 407px;
+    width: 430px;
     li {
       text-align: left;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      a {
+        margin-left: 20px;
+        margin-bottom: 20px;
+      }
+    }
+    ul {
+      list-style: none;
+      padding-left: 10px;
     }
   }
 }
