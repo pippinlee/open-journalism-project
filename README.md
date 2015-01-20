@@ -21,6 +21,8 @@ The above `--baseurl ''` allows the site to run locally without using the github
 
 To test that everything is working, open up `data.md` in your text editor and add a sentence to the How We Got Here section. Save the file with your changes, then you should be able to go back to your browser and refresh the page to see the changes.
 
+If you want to submit a pull request with a fix or addition, it's also recommended you fork and create new branches for cleaner work flow.
+
 
 ## Content
 * 🌍 [Mapping](#user-content-mapping-)
