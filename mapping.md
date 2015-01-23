@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mapping
-permalink: /Mapping/
+permalink: /mapping/
 feature-img: ""
 ---
 

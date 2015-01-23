@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security
-permalink: /Security/
+permalink: /security/
 feature-img: ""
 ---
 
