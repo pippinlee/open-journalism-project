@@ -213,7 +213,7 @@ Fusion Tables is Google's tool that integrates with Spreadsheets to make creatin
 
 ![sql]( {{ site.baseurl }}/img/data/sql.png)
 
-Site: []()
+
 
 SQL stands for Structured Query Language, and is one of the more important pieces to the data journalism puzzle. SQL is a query programming language that allows you to use specific query terms to search a database. There are many types of databases that can hold different types of data, but SQL is one of the more popular ones due to it be fairly easy to use.
 
