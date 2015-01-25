@@ -53,6 +53,7 @@ D3.js is the visualization library behind many of today's interactive visualizat
 	* [code.minnpost.com/simple-map-d3/](http://code.minnpost.com/simple-map-d3/)
 	* [Dashing D3.js ebook](https://www.dashingd3js.com/table-of-contents)
 	* [Official D3.js list of tutorials](https://github.com/mbostock/d3/wiki/Tutorials)
+	* [Square's Intro to D3.js](http://square.github.io/intro-to-d3/)
 * **Examples**
 	* [How Obama Won Re-election](http://www.nytimes.com/interactive/2012/11/07/us/politics/obamas-diverse-base-of-support.html)
 	* [Racing Against History](http://www.nytimes.com/interactive/2012/08/01/sports/olympics/racing-against-history.html)
@@ -207,6 +208,26 @@ Fusion Tables is Google's tool that integrates with Spreadsheets to make creatin
 	* [What's the most congested street in Toronto, Globe and Mail](http://www.theglobeandmail.com/news/toronto/have-your-say-whats-the-most-congested-street-in-toronto/article2361996/)
 	* [Hurricane zones, WNYC](http://project.wnyc.org/hurricane-zones/hurricane-zones.html)
 </div>
+
+**SQL**
+
+![sql]( {{ site.baseurl }}/img/data/sql.png)
+
+Site: []()
+
+SQL stands for Structured Query Language, and is one of the more important pieces to the data journalism puzzle. SQL is a query programming language that allows you to use specific query terms to search a database. There are many types of databases that can hold different types of data, but SQL is one of the more popular ones due to it be fairly easy to use.
+
+It is common to use SQL with relational databases like MySQL or SQLite. The power of SQL is being able to query a big set of data to discover relationships based on the questions you provide in the query language.
+
+<div class="resources" markdown='1'>
+* **Tutorials**
+	* [A Gentle Introduction: Part I](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile)
+	* [A Gentle Introduction: Part II](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part2.textile)
+	* [A Gentle Introduction: Part III](https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part3.textile)
+	
+
+</div>
+
 
 
 **Other data links**
