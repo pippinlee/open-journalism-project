@@ -3,6 +3,7 @@ layout: page
 title: Media
 permalink: /Media/
 feature-img: ""
+hide: true
 ---
 
 <div class="toc">
