@@ -38,13 +38,21 @@ Along with the competition will always be a concern of projects fragmenting into
 <h1 id="eac">Examples and Code</h1>
 
 
-***
-
 **Github**
+
+![branching]( {{ site.baseurl }}/img/open-source/branching.png)
 
 Site: [github.com](https://github.com/)
 
-![branching]( {{ site.baseurl }}/img/open-source/branching.png)
+Github plays an important role as a tool and platform for building software. It's primarily used to collaboratively build software, but in its simplest form, it allows anyone to post their code either publicly or privately to a Github account. It acts as a web interface for hosting Git repositories and allows anyone to share their code with others.
+
+While most work with Github is done from the command line, the Github website does serve as an important tool, allowing teams or individuals to track bugs and features with a web interface.
+
+Since launching in 2008, Github been a big influence in promoting open source software while giving transparency to complex software development processes. It's also where the majority of all open source libraries, frameworks, and tools are shared. It's common to search for a piece of code with a specific function on Github so you don't recreate something that already exists.
+
+You should always be aware of the copyright notices posted with a project as they differ depending on the owner's preference.
+
+It's unrealistic to use email to share complex codebases with dozens or hundreds of files. Github hosts the files and Git allows many to work and add to the same codebase.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
