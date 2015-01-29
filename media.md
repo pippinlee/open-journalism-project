@@ -20,13 +20,13 @@ feature-img: ""
 
 Why do we use videos and photos in addition to words in news; because the English is limiting.
 
-Media such as audio, video, and images are used because words can only express so much information to the viewer. When we want to more accuratly bring a viewer into a specific scene, whether that be a protest or sporting event, it helps to use a medium that accuratly captures the scene.
+Media such as audio, video, and images are used because words can only express so much information to the viewer. When we want to more accurately bring a viewer into a specific scene, whether that be a protest or sporting event, it helps to use a medium that accurately captures the scene.
 
-As the art of photography developed from the late 1800's, it allowed for more accurate representations comapred to a written description or hand-drawn pictures. The advacement from analogue to digital media meant the amount of images and video was only limited by the byte size of the disk you were saving the media to.
+As the art of photography developed from the late 1800's, it allowed for more accurate representations compared to a written description or hand-drawn pictures. The advancement from analogue to digital media meant the amount of images and video was only limited by the byte size of the disk you were saving the media to.
 
 The web of the early 1990's was primarily text based because the lines that connected computers couldn't carry high loads of information. If you think of it like a bridge, early Internet connections could only handle the weight of humans on bikes, not any large transport trucks. Any images that were uploaded then were low resolution, and therefore easier to download. 
 
-The increase in quality of photo and videos sensors, which has led to higher resolution media, and therefore needing larger badwidth capabilities has been closely followed by the ability of our connections to the Internet. During this time our connections having grown from dial-up speeds of [50 kilobits](http://en.wikipedia.org/wiki/Dial-up_Internet_access) per second to up to [1000 megabits](http://en.wikipedia.org/wiki/Google_Fiber) (1 gigabit) per second; a 20,000x increase.
+The increase in quality of photo and videos sensors, which has led to higher resolution media, and therefore needing larger bandwidth capabilities has been closely followed by the ability of our connections to the Internet. During this time our connections having grown from dial-up speeds of [50 kilobits](http://en.wikipedia.org/wiki/Dial-up_Internet_access) per second to up to [1000 megabits](http://en.wikipedia.org/wiki/Google_Fiber) (1 gigabit) per second; a 20,000x increase.
 
 If we think back to our bridge metaphor, the we now have a bridge that is a well built steel structure that can withstand a steady stream of transport trucks.
 
@@ -34,11 +34,11 @@ If we think back to our bridge metaphor, the we now have a bridge that is a well
 
 <h1 id="pim">Problems in media</h1>
 
-One of the interesting limits to using video and images on the web is that, since it’s inseption, video has been limited to bandwidth. Your capabilities of your line into the internet predicted your end experience when trying to view media from the Internet.
+One of the interesting limits to using video and images on the web is that, since it’s inception, video has been limited to bandwidth. Your capabilities of your line into the internet predicted your end experience when trying to view media from the Internet.
 
 This limitation has meant only in the last 10 years has video really taken off as a medium online. Youtube as well as other early video sites proved that leaning hard on the barriers to speed would allow them to create new media experiences on the web.
 
-We’ve seen a very similar constaint with cell phone bandwidth over the last decade, which has meant only recently have sites and mobile apps started doing heavier media focused work.
+We’ve seen a very similar constraint with cell phone bandwidth over the last decade, which has meant only recently have sites and mobile apps started doing heavier media focused work.
 
 It's still strongly advised that any media project placed online respect a user's variable connection, and therefore make media that is sensitive to viewer’s phone data charges.
 
