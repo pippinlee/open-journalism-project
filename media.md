@@ -12,54 +12,52 @@ hide: true
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
     <li> <a href="#pim">Problems in media</a></li>
-    <li><a href="#wdtfl">Where does the future lead</a></li>
-    <li><a href="#eac">Examples and code</a></li>
+    <li><a href="#wdtfl">Where does the future lead?</a></li>
+    <li><a href="#eac">Examples and Code</a></li>
   </ul>
 </div>
 
 <h1 id="hwgh">How we got here</h1>
 
-Why do we use videos and photos in addition to words in news; because the English is limiting.
+Why do we use videos and photos in addition to words in news? One of the reasons is because of the limitations of text.
 
-Media such as audio, video, and images are used because words can only express so much information to the viewer. When we want to more accurately bring a viewer into a specific scene, whether that be a protest or sporting event, it helps to use a medium that accurately captures the scene.
+Media such as audio, video, and images are used because words can only express so much information to the audience member. When we want to more accurately bring a viewer into a specific scene, whether that be a protest or sporting event, it helps to use a medium which accurately captures the scene.
 
-As the art of photography developed from the late 1800's, it allowed for more accurate representations compared to a written description or hand-drawn pictures. The advancement from analogue to digital media meant the amount of images and video was only limited by the byte size of the disk you were saving the media to.
+As the art of photography developed from the late 1800's, it allowed for better representations compared to a written description or hand-drawn illustrations. The advances from analogue to digital media meant that the amount of images and video was limited solely by the byte size of the disk one was saving the media to.
 
-The web of the early 1990's was primarily text based because the lines that connected computers couldn't carry high loads of information. If you think of it like a bridge, early Internet connections could only handle the weight of humans on bikes, not any large transport trucks. Any images that were uploaded then were low resolution, and therefore easier to download. 
+The web of the early 1990's was primarily text-based because the lines that connected computers couldn't yet carry heavy loads of information. If you think of it as a bridge, early Internet connections could only handle the weight of humans on bikes, not large transport trucks. Any images which were uploaded in that time period were low resolution (compared to today), and therefore easier to download. 
 
-The increase in quality of photo and videos sensors, which has led to higher resolution media, and therefore needing larger bandwidth capabilities has been closely followed by the ability of our connections to the Internet. During this time our connections having grown from dial-up speeds of [50 kilobits](http://en.wikipedia.org/wiki/Dial-up_Internet_access) per second to up to [1000 megabits](http://en.wikipedia.org/wiki/Google_Fiber) (1 gigabit) per second; a 20,000x increase.
+The increasing quality of photo and videos sensors has led to higher resolution media and a need for larger bandwidth capabilities. During this time our connections having grown from dial-up speeds of [50 kilobits](http://en.wikipedia.org/wiki/Dial-up_Internet_access) per second to up to [1000 megabits](http://en.wikipedia.org/wiki/Google_Fiber) (1 gigabit) per second; a 20,000x increase.
 
-If we think back to our bridge metaphor, the we now have a bridge that is a well built steel structure that can withstand a steady stream of transport trucks.
-
+If we think back to our bridge metaphor, we now have a bridge which is a well-built steel structure that can withstand a steady stream of multiple transport trucks.
 
 
 <h1 id="pim">Problems in media</h1>
 
-One of the interesting limits to using video and images on the web is that, since it’s inception, video has been limited to bandwidth. Your capabilities of your line into the internet predicted your end experience when trying to view media from the Internet.
+One of the interesting constraints to using video and images on the web is that, since it’s inception, video has been limited to bandwidth. The capabilities of your line into the internet predicted your end experience when trying to view media on the Internet.
 
-This limitation has meant only in the last 10 years has video really taken off as a medium online. Youtube as well as other early video sites proved that leaning hard on the barriers to speed would allow them to create new media experiences on the web.
+This limitation has meant only in the last 10 years has video really taken off as an online medium. Youtube as well as other early video sites proved that leaning hard on the barriers to speed would allow them to create brand-new media experiences on the web.
 
-We’ve seen a very similar constraint with cell phone bandwidth over the last decade, which has meant only recently have sites and mobile apps started doing heavier media focused work.
+We’ve seen a very similar constraint with cell phone bandwidth over the last decade, which has meant that only fairly recently have sites and mobile apps started doing heavier media focused work.
 
-It's still strongly advised that any media project placed online respect a user's variable connection, and therefore make media that is sensitive to viewer’s phone data charges.
+It's still strongly advised that any media project placed online respect a user's variable connection, and therefore the added requirement to attempt making media which is sensitive to viewer’s phone data charges.
 
-We are consuming more video and audio than ever before, but it's important to remember that stoping and focusing on complex media that involves video is not perfect for a lot of times when people are on the go but also connected with their phones.
+While we are consuming more video and audio than ever before, but it's important to remember that stopping and focusing on complex media that involves video is hardly perfect for all the times people are on the go but also plugged in with their phones.
 
-The experiences you build with media should reflect that not everyone is in a quite place, or has the ability to afford deep attention.
-
-
-
-<h1 id="wdtfl">Where does the future lead</h1>
-
-As we build better standards for audio and video, and bandwidth becomes less of a barrier, more experimentation with what audio and video will be used for in the future can be done.
-
-We will likely see more capabilities for offline access as memory and ability to save content increases. As our devices become more connected, it also means the quantity of times they become unconnected will increase.
-
-Building offline features that allow us to still consume multimedia like audio and video will like see more attention in the future as phones abilities increase and native applications start including offline content by default.
+The experiences you build with media should reflect that not everyone is in a quiet place, or can afford deep attention.
 
 
 
-<h1 id="eac">Examples and code</h1>
+<h1 id="wdtfl">Where does the future lead?</h1>
+
+As we build better standards for audio and video, and bandwidth becomes less of a pressing constraint, further experimentation with what audio and video can (and must) be used for in the future will happen.
+
+We will likely see more capabilities for offline access as memory and ability to save content increases. As our devices become more connected, it also means the times in which they are disconnected will decrease.
+
+Building offline features that allow us to consume multimedia like audio and video will likely see more attention in the future as cellphone abilities increase and native applications start storing content offline by default.
+
+
+<h1 id="eac">Examples and Code</h1>
 
 
 
