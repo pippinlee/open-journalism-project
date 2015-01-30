@@ -19,24 +19,28 @@ hide: true
 
 <h1 id="hwgh">How we got here</h1>
 
-Why do we use videos and photos in addition to words in news? One of the reasons is because of the limitations of text.
+Why do we use videos and photos in addition to words in news? One of the reasons is because text has some limitations.
 
-Media such as audio, video, and images are used because words can only express so much information to the audience member. When we want to more accurately bring a viewer into a specific scene, whether that be a protest or sporting event, it helps to use a medium which accurately captures the scene.
+Words can only express so much information to the audience, so we add media such as audio, video, and images. When we want to more accurately or quickly bring a viewer into a specific situation, whether a protest or sporting event, it helps if we can use a medium that accurately captures the scene.
 
-As the art of photography developed from the late 1800's, it allowed for better representations compared to a written description or hand-drawn illustrations. The advances from analogue to digital media meant that the amount of images and video was limited solely by the byte size of the disk one was saving the media to.
+Different media have different strengths and weaknesses. Newspapers in the early days included illustrations that were created from engravings based on hand-drawn illustrations. Later, in the mid-1800s, engravings were sometimes based on photographs. These engravings communicated a scene or an object quickly and effectively to the reader. However, they were time-consuming to make and were rarely used to capture "on the ground" news situations. As the art of photography developed during the late 1800s and half-tone printing became possible, newspapers began to print photographs. These images showed a scene with more immediacy than an engraving. Think of the front-page images of wartime Europe.
 
-The web of the early 1990's was primarily text-based because the lines that connected computers couldn't yet carry heavy loads of information. If you think of it as a bridge, early Internet connections could only handle the weight of humans on bikes, not large transport trucks. Any images which were uploaded in that time period were low resolution (compared to today), and therefore easier to download. 
+Moving images - from jerky film strips to slow-motion videos - have the potential to convey even more information than stills. The eye evolved to follow motion, so we are drawn to a picture moving on a screen. 
+
+As we moved from analogue to digital media the quality of movies changed considerably. When we could store images and videos digitally, their number and quality was limited only by the number of bytes of information that a disk could hold.
+
+The web of the early 1990s was primarily text-based because the wires that connected computers couldn't yet carry heavy loads of information. If you think of it as a bridge, early Internet connections could only handle the weight of humans on bikes, not large transport trucks. Any images that were uploaded were low resolution (compared to today), and therefore easier to download. Even so, it could take several seconds or even minutes to download a photograph via a modem.
 
 The increasing quality of photo and videos sensors has led to higher resolution media and a need for larger bandwidth capabilities. During this time our connections having grown from dial-up speeds of [50 kilobits](http://en.wikipedia.org/wiki/Dial-up_Internet_access) per second to up to [1000 megabits](http://en.wikipedia.org/wiki/Google_Fiber) (1 gigabit) per second; a 20,000x increase.
 
-If we think back to our bridge metaphor, we now have a bridge which is a well-built steel structure that can withstand a steady stream of multiple transport trucks.
+Thinking back to our bridge metaphor, we now have a bridge which is a well-built steel structure that can withstand a steady stream of fully laden transport trucks.
 
 
 <h1 id="pim">Problems in media</h1>
 
-One of the interesting constraints to using video and images on the web is that, since it’s inception, video has been limited to bandwidth. The capabilities of your line into the internet predicted your end experience when trying to view media on the Internet.
+One of the interesting constraints to sharing video and images on the web is that, since its inception, video uploading and downloading has been limited by bandwidth. The capabilities of your line into the internet predicted your end experience when trying to view media on the Internet.
 
-This limitation has meant only in the last 10 years has video really taken off as an online medium. Youtube as well as other early video sites proved that leaning hard on the barriers to speed would allow them to create brand-new media experiences on the web.
+This limitation has meant that only in the last 10 years has video really taken off as an online medium. YouTube and other other early video sites proved that leaning hard on the barriers to speed enabled the creation of brand-new media experiences on the web.
 
 We’ve seen a very similar constraint with cell phone bandwidth over the last decade, which has meant that only fairly recently have sites and mobile apps started doing heavier media focused work.
 
