@@ -3,7 +3,6 @@ layout: page
 title: Media
 permalink: /Media/
 feature-img: ""
-hide: true
 ---
 
 <div class="toc">
@@ -51,8 +50,7 @@ While we are consuming more video and audio than ever before, it's important to 
 
 As we develop better standards for audio and video, and as bandwidth becomes less of a constraint, expect further experimentation into what audio and video can (and must) be used for. As Wifi coverage increases our devices will become more constantly connected. At the same time, our devices' memory capacity is increasing, allowing us to save more content, so we will likely see more capabilities for offline access. 
 
-Building offline features that allow us to consume multimedia like audio and video will likely see more attention in the future as cellphone abilities increase and native applications start storing content offline by default.
-
+Building technology so that media like audio and video can be viewed offline is something that will likely see more attention in the future. This will trend will follow our devices and their storage abilities, as well as the capabilities of more native apps building in offline modes as a main feature.
 
 <h1 id="eac">Examples and Code</h1>
 
@@ -121,3 +119,26 @@ Hyperaudio is a both a web tool and library to make video and the language used 
 	* [Video with background music](http://hyperaud.io/pad/viewer/?t=XMVjtXOUSC-V0sSZBOKrBw&m=sPT0dvAwSK6hp5aS7acyAg)
 	* [HyperTranscript demo](http://hyperaud.io/lab/ha-examples/AJ/v09/)
 </div>
+
+
+**youtube-dl**
+
+![hyperaudio]( {{ site.baseurl }}/img/media/youtube-dl.png)
+
+Site: [rg3.github.io/youtube-dl](http://rg3.github.io/youtube-dl/)
+
+Github: [github.com/rg3/youtube-dl](https://github.com/rg3/youtube-dl)
+
+Youtube-dl is a command line tool that makes it easy to get a video from websites like Youtube, or Vimeo. It can also do audio sites like Soundcloud.
+
+If there's a piece of audio from a protest, it's easy to just scrape the audio from a Youtube video.
+
+<div class="resources" markdown='1'>
+* **Tutorials**
+	* [Installing and documentation](http://rg3.github.io/youtube-dl/documentation.html)
+	* [Downloading videos from Youtube](http://community.linuxmint.com/tutorial/view/1040)
+	* [Youtube-dl command line tool](http://www.tecmint.com/install-youtube-dl-command-line-video-download-tool/)
+</div>
+
+
+
