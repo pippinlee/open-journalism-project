@@ -145,7 +145,6 @@ Site: [storymap.knightlab.com](http://storymap.knightlab.com/)
 Github: [github.com/NUKnightLab/StoryMapJS](https://github.com/NUKnightLab/StoryMapJS)
 
 
-
 <div class="resources" markdown='1'>
 * **Tutorials**
 	* [Setting up StoryMapJS on your own server](http://storymap.knightlab.com/advanced.html)
