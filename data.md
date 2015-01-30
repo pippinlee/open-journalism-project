@@ -26,7 +26,7 @@ Science--in the modern sense of the word--uses data as a way of collecting and a
 
 Decreasing costs have increased the feasibility of adding sensors (devices that can collect information) to almost everything. On one hand this could make everything "smarter", but on the other, it creates a lot of mess.
 
-Hardware runs on chips, which contain vulnerabilities. Therefore, as more devices in our everyday lives produce more data to tell us more, we must be aware that we open ourselves up to having our data compromised (= stolen).
+Hardware runs on chips, which contain vulnerabilities. Therefore, as more devices in our everyday lives produce more data to tell us more, we must be aware that we open ourselves up to having our data compromised (stolen).
 
 
 <h1 id="wdtfl">Where does the future lead?</h1>

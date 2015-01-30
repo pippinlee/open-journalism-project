@@ -135,6 +135,30 @@ QGIS is an application that runs from your desktop, allowing you to edit, view, 
 
 </div>
 
+
+**StoryMapJS**
+
+![qgis]( {{ site.baseurl }}/img/mapping/storymap.png)
+
+Site: [storymap.knightlab.com](http://storymap.knightlab.com/)
+
+Github: [github.com/NUKnightLab/StoryMapJS](https://github.com/NUKnightLab/StoryMapJS)
+
+
+
+<div class="resources" markdown='1'>
+* **Tutorials**
+	* [Setting up StoryMapJS on your own server](http://storymap.knightlab.com/advanced.html)
+	* [StoryMap to take your readers on a journey](https://www.journalism.co.uk/skills/how-to-build-a-storymap-to-take-readers-on-a-journey/s7/a556486/)
+		
+* **Examples**
+	* [ISIS carving a new country, W. Post](http://apps.washingtonpost.com/g/page/world/map-how-isis-is-carving-out-a-new-country/1095/)	
+	* [Journey to nowhere, Al Jazeera](http://america.aljazeera.com/multimedia/2014/3/map-timeline-malaysiaairlinesflight370.html)	
+	* [Life and death, CNBC](http://www.cnbc.com/id/101697417) 	
+	* [Hockey, hip-hop, MinnPost](http://www.minnpost.com/stroll/2014/06/hockey-hip-hop-and-other-green-line-highlights)
+</div>	
+	
+	
 <h1>Other Mapping links</h1>
 
 [OpenStreetMap](http://www.openstreetmap.org/)

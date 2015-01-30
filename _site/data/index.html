@@ -27,6 +27,16 @@
 	
 	<!-- Google Analytics -->
 	
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-58629705-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	
 </head>
 
 
@@ -168,21 +178,21 @@
 
 <h1 id="hwgh">How we got here</h1>
 
-<p>When we collect information, we do so in a number of ways. Standardizing the methods we use for data gathering over time has allowed us to compare and show relationships over time and the changes in variables.</p>
+<p>People have always collected information about themselves, others, and the world around us. More recently, we have developed many tools and devices to help us gather data in any number of ways. The number of variables we can analyze is almost infinite. Using increasingly standardized methods of data gathering allows us to compare variables and show how relationships between many variables change over time.</p>
 
-<p>Science has been an early user of data. It allowed evidence to be promoted and compared with other sources.</p>
+<p>Science–in the modern sense of the word–uses data as a way of collecting and analyzing evidence. Data allows us to quantitatively compare information from a variety of sources.</p>
 
 <h1 id="pid">Problems in data</h1>
 
-<p>With decreasing costs, it is becoming increasingly feasible to add sensors, objects which can collect information, to everything. On one hand this could make everything “smarter”, but in another, it creates a lot of mess.</p>
+<p>Decreasing costs have increased the feasibility of adding sensors (devices that can collect information) to almost everything. On one hand this could make everything “smarter”, but on the other, it creates a lot of mess.</p>
 
-<p>Hardware runs on chips which contain vulnerabilities, therefore, as more and more devices and items in our everyday lives produce more data to tell us more, we have to be aware that we open ourselves our to having our data compromised (re: stolen).</p>
+<p>Hardware runs on chips, which contain vulnerabilities. Therefore, as more devices in our everyday lives produce more data to tell us more, we must be aware that we open ourselves up to having our data compromised (stolen).</p>
 
 <h1 id="wdtfl">Where does the future lead?</h1>
 
-<p>We will see more streams of data. Meaning the data never stops–it’s not static. This is important to understand because it means the feedback loop for many things will be much shorter.</p>
+<p>We will see more streams of data: data that never stops changing and updating. Streaming data is not static. It’s like a firehose: a constant flow of information. This is important to understand because it means that any feedback is almost instantaneous, but reflects only one instant in time. If you perform the analysis again a moment later, the result may be different.</p>
 
-<p>The job of the future data visualizer will be dealing with this firehose and figuring out which parts are important in real time.</p>
+<p>The job of the future data visualizer will be to deal with this firehose of data and to figure out which parts are important in real time.</p>
 
 <h1 id="eac">Examples and Code</h1>
 
@@ -194,7 +204,7 @@
 
 <p>Github: <a href="https://github.com/mbostock/d3">github.com/mbostock/d3</a></p>
 
-<p>D3.js is the visualization library behind many of today’s interactive visualization. It allows for deep control over all final interactions, but is also used as a building block for a number of other data tools.</p>
+<p>D3.js is the visualization library behind many of today’s interactive visualizations. It allows for deep control over all final interactions, but is also used as a building block for a number of other data tools.</p>
 
 <div class="resources">
   <ul>
@@ -203,6 +213,7 @@
         <li><a href="http://code.minnpost.com/simple-map-d3/">code.minnpost.com/simple-map-d3/</a></li>
         <li><a href="https://www.dashingd3js.com/table-of-contents">Dashing D3.js ebook</a></li>
         <li><a href="https://github.com/mbostock/d3/wiki/Tutorials">Official D3.js list of tutorials</a></li>
+        <li><a href="http://square.github.io/intro-to-d3/">Square’s Intro to D3.js</a></li>
       </ul>
     </li>
     <li><strong>Examples</strong>
@@ -222,7 +233,7 @@
 
 <p>Github: <a href="https://github.com/DmitryBaranovskiy/raphael/">github.com/DmitryBaranovskiy/raphael</a></p>
 
-<p>Raphael and D3 are often substitutable. Raphael, while not as complete of a interactive library, allows easy building of charts and graphs. </p>
+<p>Raphael and D3 are often interchangeable. Raphael, while not so complete an interactive library as D3, makes building charts and graphs easy. </p>
 
 <div class="resources">
   <ul>
@@ -253,7 +264,7 @@
 
 <p>Github: <a href="https://github.com/kimonolabs">github.com/kimonolabs</a></p>
 
-<p>Kimono’s acts as the database and scraper. Kimono has a powerful user interface to select parts of a web page, that you can then set to scrape at certain intervals. Kimono then gives you access to the database in a static JSON file to work with.</p>
+<p>Kimono acts as the database and scraper. Kimono has a powerful user interface that you can set to select parts of a web page, and then “scrape” it at set time intervals. Kimono then gives you access to the database in a static JSON file to work with.</p>
 
 <div class="resources">
   <ul>
@@ -275,7 +286,7 @@
 
 <p>Github: <a href="https://github.com/nnnick/Chart.js/">github.com/nnnick/Chart.js</a></p>
 
-<p>Chart.js is a library for getting charts up and running quickly. The goal of the library is making beautiful charts simple to make.</p>
+<p>Chart.js is a library for getting charts up and running quickly. The goal of the library is to make it easy to create beautiful charts.</p>
 
 <div class="resources">
   <ul>
@@ -284,11 +295,6 @@
         <li><a href="http://webdesign.tutsplus.com/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363">Build a dynamic dashboard with ChartJS</a></li>
         <li><a href="http://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/">Create animated charts with Chart.JS</a></li>
         <li><a href="http://kushagragour.in/blog/2013/06/getting-started-with-chartjs/">Getting started with Chart.js</a></li>
-      </ul>
-    </li>
-    <li><strong>Examples</strong>
-      <ul>
-        <li>Thing1</li>
       </ul>
     </li>
   </ul>
@@ -302,7 +308,7 @@
 
 <p>Github: <a href="https://github.com/Quartz/Chartbuilder/">github.com/Quartz/Chartbuilder</a></p>
 
-<p>Chartbuilder is an interface that makes it easy for anyone to type in some data and get a chart. This makes Chartbuilder one of the quickest ways to get a chart if you already have your data ready to go.</p>
+<p>Chartbuilder is an interface that makes it easy for anyone to type in data and have it displayed as a chart. This makes Chartbuilder one of the quickest ways to produce a chart if you already have your data ready to go.</p>
 
 <div class="resources">
   <ul>
@@ -330,7 +336,7 @@
 
 <p>Github: <a href="https://github.com/jlord/sheetsee.js">github.com/jlord/sheetsee.js</a></p>
 
-<p>Sheetsee.js works together with Google Spreadsheets to allow you to connect a spreadsheet of data into charts and maps interactives.</p>
+<p>Sheetsee.js works together with Google Spreadsheets to allow you to convert a spreadsheet of data into interactive charts and maps.</p>
 
 <div class="resources">
   <ul>
@@ -356,7 +362,7 @@
 
 <p>Github: <a href="https://github.com/jsoma/tabletop">github.com/jsoma/tabletop</a></p>
 
-<p>Like Sheetsee.js, Tabletop.js also using Google Spreadsheets as the database and then connects your page to allow for data to be connected to your interactive visuals.</p>
+<p>Like Sheetsee.js, Tabletop.js also using Google Spreadsheets as the database and then connects to your page to allow you to connect data to your interactive visuals.</p>
 
 <div class="resources">
   <ul>
@@ -410,6 +416,27 @@
       </ul>
     </li>
   </ul>
+</div>
+
+<p><strong>SQL</strong></p>
+
+<p><img src="/img/data/sql.png" alt="sql" /></p>
+
+<p>SQL stands for Structured Query Language, and is one of the more important pieces to the data journalism puzzle. SQL is a query programming language that allows you to use specific query terms to search a database. There are many types of databases that can hold different types of data, but SQL is one of the more popular ones due to it be fairly easy to use.</p>
+
+<p>It is common to use SQL with relational databases like MySQL or SQLite. The power of SQL is being able to query a big set of data to discover relationships based on the questions you provide in the query language.</p>
+
+<div class="resources">
+  <ul>
+    <li><strong>Tutorials</strong>
+      <ul>
+        <li><a href="https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part1.textile">A Gentle Introduction: Part I</a></li>
+        <li><a href="https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part2.textile">A Gentle Introduction: Part II</a></li>
+        <li><a href="https://github.com/tthibo/SQL-Tutorial/blob/master/tutorial_files/part3.textile">A Gentle Introduction: Part III</a></li>
+      </ul>
+    </li>
+  </ul>
+
 </div>
 
 <p><strong>Other data links</strong></p>
