@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Open Journalism Project</title>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>http://example.com/</link>
+    <atom:link href="http://example.com/open-journalism-project/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://example.com/open-journalism-project/</link>
     <description>Fun with journalism and code.</description>
-    <pubDate>Fri, 30 Jan 2015 16:07:45 -0500</pubDate>
+    <pubDate>Fri, 30 Jan 2015 17:59:37 -0500</pubDate>
     
       <item>
         <title>Mapping</title>
-        <link>http://example.com/2015/01/02/mapping.html</link>
-        <guid isPermaLink="true">http://example.com/2015/01/02/mapping.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/mapping.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <link>http://example.com/open-journalism-project/2015/01/02/mapping.html</link>
+        <guid isPermaLink="true">http://example.com/open-journalism-project/2015/01/02/mapping.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/open-journalism-project/img/mapping.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 02 Jan 2015 00:00:00 -0500</pubDate>
@@ -19,9 +19,9 @@
     
       <item>
         <title>Command line</title>
-        <link>http://example.com/2014/12/01/command-line-tools.html</link>
-        <guid isPermaLink="true">http://example.com/2014/12/01/command-line-tools.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/command-line.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <link>http://example.com/open-journalism-project/2014/12/01/command-line-tools.html</link>
+        <guid isPermaLink="true">http://example.com/open-journalism-project/2014/12/01/command-line-tools.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/open-journalism-project/img/command-line.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
@@ -29,9 +29,9 @@
     
       <item>
         <title>Security</title>
-        <link>http://example.com/security/</link>
-        <guid isPermaLink="true">http://example.com/security/</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/security.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <link>http://example.com/open-journalism-project/security/</link>
+        <guid isPermaLink="true">http://example.com/open-journalism-project/security/</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/open-journalism-project/img/security.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 30 Nov 2014 00:00:00 -0500</pubDate>
@@ -39,9 +39,9 @@
     
       <item>
         <title>Data</title>
-        <link>http://example.com/2014/11/29/data.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/29/data.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/data.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <link>http://example.com/open-journalism-project/2014/11/29/data.html</link>
+        <guid isPermaLink="true">http://example.com/open-journalism-project/2014/11/29/data.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/open-journalism-project/img/data.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 29 Nov 2014 00:00:00 -0500</pubDate>
@@ -49,9 +49,9 @@
     
       <item>
         <title>Media</title>
-        <link>http://example.com/2014/11/27/media.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/27/media.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/media.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <link>http://example.com/open-journalism-project/2014/11/27/media.html</link>
+        <guid isPermaLink="true">http://example.com/open-journalism-project/2014/11/27/media.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/open-journalism-project/img/media.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 27 Nov 2014 00:00:00 -0500</pubDate>
@@ -59,9 +59,9 @@
     
       <item>
         <title>Open source</title>
-        <link>http://example.com/2014/11/26/open-source.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/26/open-source.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;/img/open-source.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
+        <link>http://example.com/open-journalism-project/2014/11/26/open-source.html</link>
+        <guid isPermaLink="true">http://example.com/open-journalism-project/2014/11/26/open-source.html</guid>
+        <description>&lt;p&gt;&lt;img src=&quot;/open-journalism-project/img/open-source.png&quot; alt=&quot;oj text&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 26 Nov 2014 00:00:00 -0500</pubDate>
