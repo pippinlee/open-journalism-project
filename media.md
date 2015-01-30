@@ -29,7 +29,7 @@ Moving images - from jerky film strips to slow-motion videos - have the potentia
 
 As we moved from analogue to digital media the quality of movies changed considerably. When we could store images and videos digitally, their number and quality was limited only by the number of bytes of information that a disk could hold.
 
-The web of the early 1990s was primarily text-based because the wires that connected computers couldn't yet carry heavy loads of information. If you think of it as a bridge, early Internet connections could only handle the weight of humans on bikes, not large transport trucks. Any images that were uploaded were low resolution (compared to today), and therefore easier to download. Even so, it could take several seconds or even minutes to download a photograph via a modem.
+The web of the early 1990s was primarily text-based because the wires that connected computers couldn't yet quickly carry large amounts of information. If you think of it as a bridge, early Internet connections could only handle the weight of humans on bikes with loaded panniers, not large transport trucks full of cargo. Any images that were uploaded were low resolution (compared to today), and therefore easier to download. Even so, it could take several seconds or even minutes to download a photograph via a modem.
 
 The increasing quality of photo and videos sensors has led to higher resolution media and a need for larger bandwidth capabilities. During this time our connections having grown from dial-up speeds of [50 kilobits](http://en.wikipedia.org/wiki/Dial-up_Internet_access) per second to up to [1000 megabits](http://en.wikipedia.org/wiki/Google_Fiber) (1 gigabit) per second; a 20,000x increase.
 
@@ -42,21 +42,14 @@ One of the interesting constraints to sharing video and images on the web is tha
 
 This limitation has meant that only in the last 10 years has video really taken off as an online medium. YouTube and other other early video sites proved that leaning hard on the barriers to speed enabled the creation of brand-new media experiences on the web.
 
-We’ve seen a very similar constraint with cell phone bandwidth over the last decade, which has meant that only fairly recently have sites and mobile apps started doing heavier media focused work.
+We’ve seen a very similar constraint with cell phone bandwidth over the last decade: only fairly recently have sites and mobile apps started doing heavier media-focused work.
 
-It's still strongly advised that any media project placed online respect a user's variable connection, and therefore the added requirement to attempt making media which is sensitive to viewer’s phone data charges.
-
-While we are consuming more video and audio than ever before, but it's important to remember that stopping and focusing on complex media that involves video is hardly perfect for all the times people are on the go but also plugged in with their phones.
-
-The experiences you build with media should reflect that not everyone is in a quiet place, or can afford deep attention.
-
+While we are consuming more video and audio than ever before, it's important to remember that busy people won't always want to stop what they're doing to focus on complex media involving video on their phones. Any media project that you build should reflect your appreciation that not everyone is in a quiet place, or can afford deep attention. Respect your users' available time, variable connection, and data charges.
 
 
 <h1 id="wdtfl">Where does the future lead?</h1>
 
-As we build better standards for audio and video, and bandwidth becomes less of a pressing constraint, further experimentation with what audio and video can (and must) be used for in the future will happen.
-
-We will likely see more capabilities for offline access as memory and ability to save content increases. As our devices become more connected, it also means the times in which they are disconnected will decrease.
+As we develop better standards for audio and video, and as bandwidth becomes less of a constraint, expect further experimentation into what audio and video can (and must) be used for. As Wifi coverage increases our devices will become more constantly connected. At the same time, our devices' memory capacity is increasing, allowing us to save more content, so we will likely see more capabilities for offline access. 
 
 Building offline features that allow us to consume multimedia like audio and video will likely see more attention in the future as cellphone abilities increase and native applications start storing content offline by default.
 
@@ -95,7 +88,7 @@ Site: [soundcite.knightlab.com](http://soundcite.knightlab.com/)
 
 Github: [github.com/NUKnightLab/soundcite](https://github.com/NUKnightLab/soundcite)
 
-Soundcite allows for audio to be done inline with the text. This can be powerful when tied to a story that involves audible components that can greatly add to a story like interviews, protests, or music.
+Soundcite allows for audio to be linked inline with the text. This can be powerful when tied to a story that involves audible components that can greatly add to a story such as interviews, protests, or music.
 
 <div class="resources" markdown='1'>
 * **Tutorials**
