@@ -64,6 +64,7 @@ The Tor project makes available a browser ([the Tor Browser](https://www.torproj
 * **Tutorials**
 	* [Installing Tor on different systems](https://www.torproject.org/docs/installguide.html.en)
 	* [A beginner's guide to Tor](http://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/)
+	* [Comparing Tor and VPNs](https://thetinhat.com/tutorials/darknets/tor-vpn.html)
 * **Examples**
 	* [Who uses Tor?](https://www.torproject.org/about/torusers.html.en)
 </div>
@@ -137,10 +138,41 @@ It's a much easier and friendlier experience than some of security focused commu
 	* [Video: Encrypt your chats with cats](https://www.youtube.com/watch?v=Hhv-XyTXmQY)
 </div>
 
+**RedPhone**
+
+![redphone]( {{ site.baseurl }}/img/security/redphone.png)
+
+Site: [whispersystems.org](https://whispersystems.org/)
+
+Github: [github.com/WhisperSystems/RedPhone](https://github.com/WhisperSystems/RedPhone)
+
+RedPhone is an Android phone app that allows for encrypted calls through data, instead of regular voice calling.
+
+* **Tutorials**
+	* [Reviewing and understanding RedPhone](http://www.ghacks.net/2013/08/12/encrypt-android-phone-conversations-with-redphone/)
+	* [Installing RedPhone](https://ssd.eff.org/en/module/how-use-redphone-android)
+
+**ProtonMail**
+
+![protonmail]( {{ site.baseurl }}/img/security/protonmail.png)
+
+Site: [protonmail.ch](https://protonmail.ch/)
+
+Github: [github.com/ProtonMail](https://github.com/ProtonMail)
+
+ProtonMail is an intermediary service for using with any email service like Gmail or Yahoo. It's goal is to protect your emails using end-to-end encryption. This means as soon as you hit send your email is encrypted and then sent to the ProtonMail servers.
+
+ProtonMail is an easier option than tools like PGP for sending messages, because no key exchanging needs to be done prior to you sending a message. All you need is the other person's email address.
+
+* **Tutorials**
+	* [How ProtonMail's threat model works](https://blog.protonmail.ch/protonmail-threat-model/)
+	* [Setting up a ProtonMail account](https://www.cryptocoinsnews.com/inside-look-protonmail-end-end-encrypted-email/)
+
 
 **Other security links**
 
 [Why King George III Can Encrypt](https://freedom-to-tinker.com/blog/randomwalker/why-king-george-iii-can-encrypt/) 
 [minilock.io](https://minilock.io/)
-
+[The Gaurdian Project](https://guardianproject.info/code/)
+[EFF: Lessons for journalism students](https://ssd.eff.org/en/playlist/journalism-student)
 
