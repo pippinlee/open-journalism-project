@@ -148,9 +148,11 @@ Github: [github.com/WhisperSystems/RedPhone](https://github.com/WhisperSystems/R
 
 RedPhone is an Android phone app that allows for encrypted calls through data, instead of regular voice calling.
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [Reviewing and understanding RedPhone](http://www.ghacks.net/2013/08/12/encrypt-android-phone-conversations-with-redphone/)
 	* [Installing RedPhone](https://ssd.eff.org/en/module/how-use-redphone-android)
+</div>
 
 **ProtonMail**
 
@@ -164,15 +166,19 @@ ProtonMail is an intermediary service for using with any email service like Gmai
 
 ProtonMail is an easier option than tools like PGP for sending messages, because no key exchanging needs to be done prior to you sending a message. All you need is the other person's email address.
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [How ProtonMail's threat model works](https://blog.protonmail.ch/protonmail-threat-model/)
 	* [Setting up a ProtonMail account](https://www.cryptocoinsnews.com/inside-look-protonmail-end-end-encrypted-email/)
-
+</div>
 
 **Other security links**
 
-[Why King George III Can Encrypt](https://freedom-to-tinker.com/blog/randomwalker/why-king-george-iii-can-encrypt/) 
+[Why King George III Can Encrypt](https://freedom-to-tinker.com/blog/randomwalker/why-king-george-iii-can-encrypt/)
+
 [minilock.io](https://minilock.io/)
+
 [The Gaurdian Project](https://guardianproject.info/code/)
+
 [EFF: Lessons for journalism students](https://ssd.eff.org/en/playlist/journalism-student)
 
