@@ -15,7 +15,9 @@ It is also an ode to all the open source projects which have been created in hop
 
 This site will try to concisely answer *"what is possible?"* as well as *"how is it possible?"*.
 
-If you're curious about how you can help with this project, say hey at <a href="mailto:pippin@pippinlee.com?subject=Open Journalism Project">pippin@pippinlee.com</a>. I'm open to dropping by your newsroom, particularly student newsrooms (especially Canadian), to run a workshop and get you up and contributing.
+If you're curious about how you can help with this project, say hey at <a href="mailto:pippin@pippinlee.com?subject=Open Journalism Project">pippin@pippinlee.com</a>. We're open to dropping by your newsroom, particularly student newsrooms (especially Canadian), to run a workshop and get you up and contributing.
+
+This whole project is on Github [here](https://github.com/pippinlee/open-journalism-project), and we're always open to feedback and help. Create an issue [here](https://github.com/pippinlee/open-journalism-project/issues) with any comments on tools and libraries we're missing.
 
 # Thanks
 
