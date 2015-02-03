@@ -228,6 +228,29 @@ It is common to use SQL with relational databases like MySQL or SQLite. The powe
 
 </div>
 
+**OpenRefine**
+
+![openrefine]( {{ site.baseurl }}/img/data/openrefine.png)
+
+Site: [openrefine.org](http://openrefine.org/)
+
+Github: [github.com/OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine)
+
+If you have lots of data, but need to clean it up so that you're able to make use of it, OpenRefine is the tool you need. Cleaning data can be vary from triming extra whitespace characters, to updating titles and names with proper capitalization of a letter.
+
+Formely known as GoogleRefine, OpenRefine also makes it easy to explore large data sets.
+
+<div class="resources" markdown='1'>
+* **Tutorials**
+	* [Video: GoogleRefine Introduction Part I](https://www.youtube.com/watch?v=B70J_H_zAWM)
+	* [Video: Data Transformation Part II](https://www.youtube.com/watch?v=cO8NVCs_Ba0)
+	* [Video: Data Augmentation Part III](https://www.youtube.com/watch?v=5tsyz3ibYzk)
+	* [How to refine your data](http://d3-media.blogspot.nl/2013/11/how-to-refine-your-data.html)
+	* [Getting setup with OpenRefine](http://enipedia.tudelft.nl/wiki/OpenRefine_Tutorial)
+	* [OpenRefine's Wiki of external resources](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
+	
+	
+</div>
 
 
 **Other data links**
