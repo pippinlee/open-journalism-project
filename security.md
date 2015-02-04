@@ -118,7 +118,7 @@ A common setup is using [Mozilla's Thunderbird](https://www.mozilla.org/en-US/th
 	* [Frequently asked PGP questions](http://www.faqs.org/faqs/pgp-faq/part1/)
 	* [Reasons not to start using PGP](http://secushare.org/PGP)
 	* [Getting started with PGP on Windows](https://xato.net/cryptography/pgp-10-minutes-or-less)
-	* [http://www.phildev.net/pgp/gpgtrust.html](http://www.phildev.net/pgp/gpgtrust.html)
+	* [PGP Trust](http://www.phildev.net/pgp/gpgtrust.html)
 	* [Video: GPG Encryption for Mac](https://www.youtube.com/watch?v=yXm0dtYFxZk)
 </div>
 
