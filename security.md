@@ -99,6 +99,29 @@ Onionshare is a file-sharing service built on top of the distributed anonymity n
 	* [github.com/micahflee/onionshare/blob/master/README.md](https://github.com/micahflee/onionshare/blob/master/README.md)
 </div>
 
+**PGP**
+
+![onionshare]( {{ site.baseurl }}/img/security/pgp.png)
+
+Site: [gpgtools.org](https://gpgtools.org/)
+
+Github: [github.com/GPGTools](https://github.com/GPGTools)
+
+PGP (Pretty Good Privacy) is a technology that aims to make emailing more private through encryption. It's one of the more complex setups for messaging others, but also one of the more secure because of the encryptions independence from any other servers or third parties.
+
+A common setup is using [Mozilla's Thunderbird](https://www.mozilla.org/en-US/thunderbird/) email client and then installing the [Enigmail](https://addons.mozilla.org/en-US/thunderbird/addon/enigmail/) plug-in.
+
+<div class="resources" markdown='1'>
+* **Tutorials**
+	* [PGP and You, thoughtbot](http://robots.thoughtbot.com/pgp-and-you)
+	* [How to: Use PGP for Mac OS X](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
+	* [Frequently asked PGP questions](http://www.faqs.org/faqs/pgp-faq/part1/)
+	* [Reasons not to start using PGP](http://secushare.org/PGP)
+	* [Getting started with PGP on Windows](https://xato.net/cryptography/pgp-10-minutes-or-less)
+	* [http://www.phildev.net/pgp/gpgtrust.html](http://www.phildev.net/pgp/gpgtrust.html)
+	* [Video: GPG Encryption for Mac](https://www.youtube.com/watch?v=yXm0dtYFxZk)
+</div>
+
 
 **SecureDrop**
 
@@ -178,7 +201,7 @@ ProtonMail is an easier option than tools like PGP for sending messages, because
 
 [minilock.io](https://minilock.io/)
 
-[The Gaurdian Project](https://guardianproject.info/code/)
+[The Guardian Project](https://guardianproject.info/code/)
 
 [EFF: Lessons for journalism students](https://ssd.eff.org/en/playlist/journalism-student)
 
