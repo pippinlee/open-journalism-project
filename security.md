@@ -10,6 +10,7 @@ feature-img: ""
 
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
+    <li><a href="cm">Common Misconceptions</li>
     <li> <a href="#pis">Problems in security</a></li>
     <li><a href="#wdtfl">Where does the future lead?</a></li>
     <li><a href="#eac">Examples and Code</a></li>
@@ -27,6 +28,16 @@ But who is developing the security software, and how effective is it? A primary 
 This is preferable to companies and groups creating and using security software that can't be publicly analyzed and checked for flaws. Security software is strongest when all of the code is public, as it helps to ensure the challenging security and encryption features are properly designed. It is important when we trust our sensitive information to software that we can verify it does what it claims to do and is acting in the best interest of the user, not the company. While it may seem strange at first telling, secrets are best kept with software that itself is not secret.[^1]
 
 [^1]: Cryptographers refer to this as Kerckhoff's Principle
+
+<h1 id="cm">Common Misconceptions</h1>
+
+Privacy is a right that extends to your online activity, and as such needs no justification or explanation. The argument that "I've got nothing to hide" falls short when we realize that in having your choice or want for privacy questioned, your right to it has already been ignored. Having your online activities monitored and tracked should have an opt-in feature, instead of actively having opt-out each time you are online. Even if we feel we have nothing to hide, it is not up to ISPs, advertising companies, governments or anyone else to question or exploit our online activities.
+
+People often make the mistake of assuming that using a Virtual Private Network (VPN) is enough to safeguard and protect their online activities. However, the use of a VPN alone is not sufficient, because even though the payload of what you are sending, viewing, communicating, etc. is encrypted, the overhead is not. Anyone monitoring the network or your computer can still see when you are online, the duration of time spent and the size of your communications. Also worth noting is that by entrusting your privacy to a VPN you are handing over your sensitive communications to a third party and trusting them to keep them safe further adding a potential weak link in the information chain.
+
+HTTPS provides anonymity, however the metadata is still accessible and easily tracked. Anonymizing proxies act as a middleman to redirect your traffic, hiding your IP address from the website you are trying to access. However only one proxy server is used to redirect your connection and if being monitored, the size of your incoming connection can be matched up with the size out the outgoing request.
+
+ISPs also keep logs of all server activities, which can easily be subpoenaed. Websites can access data from your browser's plug-ins to attempt to reveal your original IP address, with Flash being one of the most notorious enablers as it shares much more information than is needed. Many people also fail to realize that logging into any website requiring a password and username allows the website to track you, regardless if you are using a proxy or not. If you must access these kinds of websites, http://bugmenot.com/ can provide a generic login where available.
 
 <h1 id="pis">Problems in security</h1>
 
