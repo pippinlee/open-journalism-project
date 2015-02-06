@@ -203,16 +203,17 @@ Site: [minilock.io](https://minilock.io/)
 
 Github: [github.com/kaepora/miniLock](https://github.com/kaepora/miniLock)
 
-miniLock is a Chrome app that allows you to send single files with a receipient. All this is done with encryption in mind. miniLock was made to make sharing single files easier and just as important, securly. Past encyption software wasn't as user friendly, but miniLock aims to make well designed encyption software a standard.
+miniLock is a Chrome app that allows you to send single files to a recipient. miniLock was made to make sharing single files easier and just as important, securely. Past encryption software wasn't as user friendly, but miniLock aims to make well designed encryption software a standard.
 
 Every user gets a key to give out to friends, which allows others to send you files. miniLock can be used on Mac, Windows, or Linux.
 
+<div class="resources" markdown='1'>
 * **Tutorials**
 	* [Video: Introducing miniLock](http://vimeo.com/101237413)
 	* [Slides: Introducing miniLock](https://minilock.io/files/HOPEX.pdf)
 	* [miniLock simple encryption, Wired](http://www.wired.com/2014/07/minilock-simple-encryption/)
 	* [Meet miniLock, The Verge](http://www.theverge.com/2014/8/4/5960637/meet-minilock-a-powerful-new-encryption-tool-build-on-chromeos)
-	
+</div>
 
 
 
