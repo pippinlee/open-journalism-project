@@ -21,7 +21,7 @@ feature-img: ""
 
 Security used to concern protecting our most valuable physical assets, often behind locked doors in vaults and safes. Now, thanks to advancements in computing/computer science, our most valued assets are often in the form of digital information. This makes our information nearly cost-free to duplicate, convenient to intercept and increasingly cheap to store in massive quantities.
 
-With the development of the Internet, our computers became part of a network that includes millions of other computers.  We're happy to share information, certainly, but only with people we trust. We want to be sure that the right, accurate information is in the right hands. As more information is stored digitally, the need for computer security grows. 
+With the development of the Internet, our computers became part of a network that includes millions of other computers.  We're happy to share information, certainly, but only with people we trust. We want to be sure that the right, accurate information is in the right hands. As more information is stored digitally, the need for computer security grows.
 
 But who is developing the security software, and how effective is it? A primary benefit of free and open source software is that it can be analyzed by anyone interested in understanding how it works. The public nature of the code means it is more likely that any holes or flaws can be identified and fixed.
 
