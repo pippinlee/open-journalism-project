@@ -10,8 +10,8 @@ feature-img: ""
 
   <ul class="listContent">
     <li><a href="#hwgh">How we got here</a></li>
-    <li><a href="cm">Common Misconceptions</li>
-    <li> <a href="#pis">Problems in security</a></li>
+    <li><a href="#cm">Common Misconceptions</li>
+    <li><a href="#pis">Problems in security</a></li>
     <li><a href="#wdtfl">Where does the future lead?</a></li>
     <li><a href="#eac">Examples and Code</a></li>
   </ul>
