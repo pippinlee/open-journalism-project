@@ -195,11 +195,31 @@ ProtonMail is an easier option than tools like PGP for sending messages, because
 	* [Setting up a ProtonMail account](https://www.cryptocoinsnews.com/inside-look-protonmail-end-end-encrypted-email/)
 </div>
 
+**miniLock**
+
+![minilock]( {{ site.baseurl }}/img/security/minilock.png)
+
+Site: [minilock.io](https://minilock.io/)
+
+Github: [github.com/kaepora/miniLock](https://github.com/kaepora/miniLock)
+
+miniLock is a Chrome app that allows you to send single files with a receipient. All this is done with encryption in mind. miniLock was made to make sharing single files easier and just as important, securly. Past encyption software wasn't as user friendly, but miniLock aims to make well designed encyption software a standard.
+
+Every user gets a key to give out to friends, which allows others to send you files. miniLock can be used on Mac, Windows, or Linux.
+
+* **Tutorials**
+	* [Video: Introducing miniLock](http://vimeo.com/101237413)
+	* [Slides: Introducing miniLock](https://minilock.io/files/HOPEX.pdf)
+	* [miniLock simple encryption, Wired](http://www.wired.com/2014/07/minilock-simple-encryption/)
+	* [Meet miniLock, The Verge](http://www.theverge.com/2014/8/4/5960637/meet-minilock-a-powerful-new-encryption-tool-build-on-chromeos)
+	
+
+
+
+
 **Other security links**
 
 [Why King George III Can Encrypt](https://freedom-to-tinker.com/blog/randomwalker/why-king-george-iii-can-encrypt/)
-
-[minilock.io](https://minilock.io/)
 
 [The Guardian Project](https://guardianproject.info/code/)
 
