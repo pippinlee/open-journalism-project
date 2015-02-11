@@ -237,3 +237,5 @@ Every user gets a key to give out to friends, which allows others to send you fi
 
 [EFF: Lessons for journalism students](https://ssd.eff.org/en/playlist/journalism-student)
 
+[Crypto101, An Introduction to Cryptography, PDF](https://www.crypto101.io/)
+
