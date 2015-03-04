@@ -153,6 +153,25 @@ Github: [github.com/freedomofpress/securedrop](https://github.com/freedomofpress
 	* [Using SecureDrop with ProPublica](https://securedrop.propublica.org/)
 </div>
 
+**Signal**
+
+Signal is an iOS only app that allows for encrypted calls, and in it's 2.0 version, messaging. Signal is from the non-profit Open Whisper Systems team, who also built the RedPhone and TextSecure apps for Android. Their encryption protocols are what also powers the messaging funtionality behind Whatsapps 500 million Android users.
+
+![signal]( {{ site.baseurl }}/img/security/signal.png)
+
+Site: [whispersystems.org/blog/the-new-signal/](freedom.press/securedrop/)
+
+App Store: [itunes.apple.com/us/app/signal-private-messenger/id874139669](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)
+
+Github: [github.com/WhisperSystems/Signal-iOS](github.com/freedomofpress/securedrop/)
+
+<div class="resources" markdown='1'>
+* **Examples**
+	* [You can now call or text anyone with end-to-end encryption, Fusion](http://fusion.net/story/56778/signal-encrypted-texts-calls/)
+	* [You should really consider installing Signal, The Intercept](https://firstlook.org/theintercept/2015/03/02/signal-iphones-encrypted-messaging-app-now-supports-text/)
+</div>
+
+
 
 **Cryptocat**
 
@@ -237,5 +256,5 @@ Every user gets a key to give out to friends, which allows others to send you fi
 
 [EFF: Lessons for journalism students](https://ssd.eff.org/en/playlist/journalism-student)
 
-[Crypto101, An Introduction to Cryptography, PDF](https://www.crypto101.io/)
+[Crypto101, An Introductory Course in Cryptography, PDF](https://www.crypto101.io/)
 
