@@ -159,15 +159,15 @@ Signal is an iOS only app that allows for encrypted calls, and in it's 2.0 versi
 
 ![signal]( {{ site.baseurl }}/img/security/signal.png)
 
-Site: [whispersystems.org/blog/the-new-signal/](freedom.press/securedrop/)
+Site: [whispersystems.org/blog/the-new-signal/](https://whispersystems.org/blog/the-new-signal/)
 
 App Store: [itunes.apple.com/us/app/signal-private-messenger/id874139669](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)
 
-Github: [github.com/WhisperSystems/Signal-iOS](github.com/freedomofpress/securedrop/)
+Github: [github.com/WhisperSystems/Signal-iOS](https://github.com/WhisperSystems/Signal-iOS)
 
 <div class="resources" markdown='1'>
 * **Examples**
-	* [You can now call or text anyone with end-to-end encryption, Fusion](http://fusion.net/story/56778/signal-encrypted-texts-calls/)
+	* [Call or text anyone with end-to-end encryption, Fusion](http://fusion.net/story/56778/signal-encrypted-texts-calls/)
 	* [You should really consider installing Signal, The Intercept](https://firstlook.org/theintercept/2015/03/02/signal-iphones-encrypted-messaging-app-now-supports-text/)
 </div>
 
