@@ -250,6 +250,8 @@ Every user gets a key to give out to friends, which allows others to send you fi
 
 **Other security links**
 
+[Facts About Computer Security That Experts Wish You Knew](http://gizmodo.com/9-facts-about-computer-security-that-experts-wish-you-k-1686817774)
+
 [Why King George III Can Encrypt](https://freedom-to-tinker.com/blog/randomwalker/why-king-george-iii-can-encrypt/)
 
 [The Guardian Project](https://guardianproject.info/code/)
