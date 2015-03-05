@@ -61,6 +61,7 @@ It's unrealistic to use email to share complex codebases with dozens or hundreds
 	* [Git flight rules](https://github.com/k88hudson/git-flight-rules)
 	* [How to Github](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 	* [Interactive: Try Git](https://try.github.io/levels/1/challenges/1)
+	* [How to use GitHub and the Terminal](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
 </div>
 
 **Other resources about open source and journalism**
