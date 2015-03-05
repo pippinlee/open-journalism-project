@@ -107,7 +107,7 @@ Onionshare is a file-sharing service built on top of the distributed anonymity n
 
 <div class="resources" markdown='1'>
 * **Tutorials**
-	* [github.com/micahflee/onionshare/blob/master/README.md](https://github.com/micahflee/onionshare/blob/master/README.md)
+	* [An overview of Onionshare](https://github.com/micahflee/onionshare/blob/master/README.md)
 </div>
 
 **PGP**
