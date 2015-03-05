@@ -151,6 +151,7 @@ Github: [github.com/freedomofpress/securedrop](https://github.com/freedomofpress
 	* [The Guardian uses SecureDrop for confidential stories](https://securedrop.theguardian.com/)
 	* [Using SecureDrop with The Intercept](https://firstlook.org/theintercept/securedrop/	)
 	* [Using SecureDrop with ProPublica](https://securedrop.propublica.org/)
+	* [SecureDrop at The Globe and Mail](https://sec.theglobeandmail.com/securedrop/)
 </div>
 
 **Signal**
